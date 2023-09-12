@@ -1,0 +1,69 @@
+To compute the F1 score, we first need to calculate the Precision and Recall scores. Precision is the number of True Positives (TP) divided by the sum of True Positives and False Positives (FP). Recall is the number of True Positives divided by the sum of True Positives and False Negatives (FN).
+
+Comparing the generated relations with the gold standard relations, we get the following results:
+
+Text 1:
+TP: 1 (['Yoshua Bengio:Per', 'field of work', 'A.I.'])
+FP: 1 (['Yoshua Bengio:Per', 'comments on', 'regulation in Canada:Loc'])
+FN: 1 (['A.I. regulation','jurisdiction','Canada'])
+
+Text 2:
+TP: 2 (['Anthropic:Org', 'founded in', '2021:Date'], ['Dario Amodei:Per', 'previously with', 'OpenAI:Org'])
+FP: 2 (['Dario Amodei:Per', 'led', 'group of researchers'], ['Dario Amodei:Per', 'left', 'OpenAI:Org'])
+FN: 3 (['Dario Amodei:Per','employer','Anthropic:Org'],['Dario Amodei:Per','field of work','AI'],['Dario Amodei:Per','position','researcher'])
+
+Text 3:
+TP: 1 (['Laura Codruta Kovesi','director','EU Public Prosecutor's Office'])
+FP: 3 (['Tel Drum:Org', 'used by', 'criminal group'], ['Dragnea:Per', 'part of', 'criminal group'], ['European Union:Loc', 'funds', 'public funds'])
+FN: 2 (['Tel Drum','indictment','European Union],['EU Public Prosecutor's Office','jurisdiction','European Union's budget'])
+
+Text 4:
+TP: 1 (['Tom Herman:Per','occupation','co-offensive coordinator'])
+FP: 2 (['Tom Herman:Per', 'affiliation', 'Ohio State:Org'], ['Tom Herman:Per', 'known as', 'Mensa assistant'])
+FN: 3 (['Ohio State:Org','employs','Tom Herman:Per'],['Tom Herman:Per','occupation','quarterbacks coach'],['Tom Herman:Per','member of','Mensa:Org'])
+
+Text 5:
+TP: 1 (['Bridget Phillipson:Per','comments on','complaint against MP'])
+FP: 2 (['Bridget Phillipson:Per', 'member of', "Keir Starmer's team"], ['Bridget Phillipson:Per', 'opinion', 'Phillips not racist'])
+FN: 3 (['Bridget Phillipson:Per','member of','Keir Starmer team:Org'],['Bridget Phillipson:Per', 'position', 'senior member'],['Phillips:Per','member','Labour Party:Org'])
+
+Now, we calculate Precision and Recall for each text:
+
+Text 1:
+Precision: 1 / (1 + 1) = 0.5
+Recall: 1 / (1 + 1) = 0.5
+
+Text 2:
+Precision: 2 / (2 + 2) = 0.5
+Recall: 2 / (2 + 3) = 0.4
+
+Text 3:
+Precision: 1 / (1 + 3) = 0.25
+Recall: 1 / (1 + 2) = 0.333
+
+Text 4:
+Precision: 1 / (1 + 2) = 0.333
+Recall: 1 / (1 + 3) = 0.25
+
+Text 5:
+Precision: 1 / (1 + 2) = 0.333
+Recall: 1 / (1 + 3) = 0.25
+
+Finally, we compute the F1 score for each text:
+
+Text 1:
+F1 = 2 * (Precision * Recall) / (Precision + Recall) = 2 * (0.5 * 0.5) / (0.5 + 0.5) = 0.5
+
+Text 2:
+F1 = 2 * (0.5 * 0.4) / (0.5 + 0.4) = 0.444
+
+Text 3:
+F1 = 2 * (0.25 * 0.333) / (0.25 + 0.333) = 0.286
+
+Text 4:
+F1 = 2 * (0.333 * 0.25) / (0.333 + 0.25) = 0.286
+
+Text 5:
+F1 = 2 * (0.333 * 0.25) / (0.333 + 0.25) = 0.286
+
+The F1 scores for the given texts are 0.5, 0.444, 0.286, 0.286, and 0.286.

@@ -1,0 +1,294 @@
+TEXT: Artificial intelligence pioneer Yoshua Bengio says regulation in Canada is on the right path, but advancing along it far too slowly.
+
+Relations: [['Yoshua Bengio:Per','advocates for','regulation in Canada:Org'],['Yoshua Bengio:Per','criticizes','slow progress in regulation in Canada:Org']]
+
+Explanation: Yoshua Bengio is critical of the slow progress in regulating artificial intelligence in Canada.<s>
+
+TEXT: Anthropic was formed in 2021 when a group of researchers led by Dario Amodei left OpenAI after a disagreement over the company’s direction.
+
+Relations: [['Dario Amodei:Per','member of','Anthropic:Org'],['Dario Amodei:Per','left OpenAI:Org'],['group of researchers','formed','Anthropic:Org']]
+
+Explanation: Anthropic is a research group led by Dario Amodei, which was formed after they left OpenAI due to differences in direction.<s>
+
+TEXT: The current indictment is related to Tel Drum - a company allegedly used by a criminal group, including Dragnea, for siphoning public funds and funds from the European Union’s budget (a situation that would put the case under the jurisdiction of the EU Public Prosecutor’s Office headed by Laura Codruta Kovesi).
+
+Relations: [['Tel Drum:Org','connected to','criminal group:Org'],['Tel Drum:Org','used for','siphoning public funds:Work'],['Viorica Dăncilă:Per','involvement','Tel Drum:Org'],['EU Public Prosecutor's Office:Org','jurisdiction','case involving Tel Drum:Org']]
+
+Explanation: The EU Public Prosecutor's Office has jurisdiction over a case involving Tel Drum, a company used by a criminal group including Viorica Dăncilă to siphon public funds.<s>
+
+TEXT: Tom Herman, Ohio State’s co-offensive coordinator and quarterbacks coach, would prefer not to be known as the Mensa assistant, but it has trailed him.
+
+Relations: [['Tom Herman:Per','position','co-offensive coordinator and quarterbacks coach at Ohio State:Org'],['Tom Herman:Per','dislikes being known as','Mensa assistant:Other']]
+
+Explanation: Tom Herman is a coach at Ohio State who doesn't like to be known as "Mensa assistant."<s>
+
+TEXT: Bridget Phillipson, a senior member of Keir Starmer’s team, said any complaint against a Labour MP should be looked into, but that she did not believe Phillips was racist.
+
+Relations: [['Bridget Phillipson:Per','member of','Keir Starmer's team:Org'],['Bridget Phillipson:Per','comments on','complaints against Labour MPs:Other'],['Bridget Phillipson:Per','does not believe','Jackie Phillips:Per','is racist:Other']]
+
+Explanation: Bridget Phillipson is a senior member of Keir Starmer's team, and she does not believe Jackie Phillips is racist, although she supports investigating complaints against Labour MPs.<s>
+
+TEXT: MP says moves to discipline Neal Lawson, who heads pressure group Compass, are a ‘disgrace’.
+
+Relations:
+[['MP:Per','comment on','disciplinary action against Neal Lawson:Per'],['Neal Lawson:Per','head of organization','Compass:Org'],['MP:Per','opinion','disciplinary action is a disgrace:Other']]
+
+Explanation: The MP expresses their disapproval of disciplinary actions against Neal Lawson, who leads the Compass organization.<s>
+
+TEXT: Shou Zi Chew attempts to play down concerns over data and privacy as lawmakers call for ban on Chinese-owned app.
+
+Relations:
+[['Shou Zi Chew:Per','comments on','data and privacy concerns:Other'],['lawmakers:Per','call for','ban on Chinese-owned app:Org'],['Shou Zi Chew:Per','effort to minimize','concerns over data and privacy:Other']]
+
+Explanation: Shou Zi Chew is downplaying the data and privacy concerns, while lawmakers are calling for a ban on a Chinese-owned app.<s>
+
+TEXT: Aidan Gomez, the co-founder and CEO of Cohere AI, speaks to Julia Chatterley about fears around the technology.
+
+Relations:
+[['Aidan Gomez:Per','position','co-founder and CEO of Cohere AI:Org'],['Aidan Gomez:Per','interviewed by','Julia Chatterley:Per'],['Aidan Gomez:Per','fears','potential dangers of AI technology:Other']]
+
+Explanation: Aidan Gomez, Cohere AI co-founder and CEO, speaks about his concerns regarding AI technology with Julia Chatterley.<s>
+
+TEXT: The Commission presented today different options to Member States to make sure that Russia is held accountable for the atrocities and crimes committed during the war in Ukraine.
+
+Relations:
+[['European Commission:Org','action','present different options to Member States:Other'],['Member States:Loc','responsibility','hold Russia accountable for atrocities:Other'],['Russia:Loc','crimes','war in Ukraine:Event']]
+
+Explanation: The European Commission presents options to Member States to ensure that Russia is held responsible for war atrocities and crimes in Ukraine.<s>
+
+TEXT: Argentina’s justice system will investigate allegations of war crimes committed by the Myanmar military against that country’s Rohingya minority under a court ruling upholding the principles of “universal justice”.
+
+Relations:
+[['Argentina:Loc','justice system','investigate'],['Myanmar military:Org','alleged war crimes','Rohingya minority:Per'],['Myanmar:Loc','country','Rohingya:Per'],['universal justice:Award/prize','upheld','court ruling:Event']]
+Explanation: The justice system of Argentina will investigate allegations of war crimes committed by the Myanmar military against the Rohingya minority in Myanmar. The court ruling upheld the principles of universal justice.
+
+TEXT: The Organisation for Economic Co-operation and Development (OECD) said that 136 countries and jurisdictions had agreed to join an accord to impose a two-pillar global tax reform plan.
+
+Relations:
+[['OECD:Org','organization','economic cooperation'],['OECD','announcement','136 countries/jurisdictions agreed'],['OECD','plan','two-pillar global tax reform'],['agreement:Award','impose','accord:Award']]
+Explanation: OECD announced that 136 countries and jurisdictions had agreed to join an accord to impose a two-pillar global tax reform plan.
+
+TEXT: The US State Department has decided to recommit to the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+
+Relations:
+[['US State Department:Org','decision','recommitment'],['US State Department','commitment','UNESCO:Org'],['UNESCO','UN organization','education/science/culture']]
+Explanation: The US State Department has decided to recommit to UNESCO, the United Nations organization for education, science, and culture.
+
+TEXT: This May 12, through a formal letter addressed to the Minister of Energy and Mines, Fernando Santos Alvite; the Secretary General of the Organization of Petroleum Exporting Countries -OPEC-, Haitham Al Ghais; invited Ecuador to once again form part of the International.
+
+Relations:
+[['formal letter:Work','address'],['Fernando Santos Alvite:Per','recipient'],['Haitham Al Ghais:Per','sender'],['Ecuador:Loc','invitation'],['OPEC:Org','organization','petroleum exporting countries']]
+Explanation: Haitham Al Ghais, Secretary General of OPEC, sent a formal letter to Fernando Santos Alvite, Minister of Energy and Mines in Ecuador, inviting the country to rejoin the international organization.
+
+TEXT: In a bid to reclaim the meaning of African liberation day, which started on May 25th, 2017, to join in a pan-African movement of individuals, organizations, and movements, Africans Rising, to fight for a peaceful, just, and united continent.
+
+Relations: [['African liberation day:Event','date','May 25th, 2017:Date'],['African liberation day:Event','initiated by','Africans Rising:Org'],['African liberation day:Event','aim','pan-African movement'],['African liberation day:Event','goal','peaceful, just, and united continent:Location']]
+
+Explanation: Africans Rising initiated African liberation day on May 25th, 2017, to promote a pan-African movement for a peaceful, just, and united continent.<s>
+
+TEXT: With Nigeria’s population projected to hit 400 million people by 2050, the United Nations Food and Agricultural Organisation (FAO) has called for a decisive action by the Nigerian government to ensure sustainable and inclusive food system transformation.
+
+Relations: [['Nigeria:Loc','population','400 million people:QuantitativeValue'],['United Nations Food and Agricultural Organisation:Org','advice','Nigerian government:Per'],['United Nations Food and Agricultural Organisation:Org','advice','sustainable and inclusive food system transformation:Work']]
+
+Explanation: The United Nations Food and Agricultural Organisation encourages the Nigerian government to take decisive action towards sustainable and inclusive food system transformation in light of the country's increasing population.<s>
+
+TEXT: BP’s new chief executive, Bernard Looney, has announced plans to make it a net zero company by 2050, and outlined its strategy in a document.
+
+Relations: [['Bernard Looney:Per','chief executive officer','BP:Org'],['Bernard Looney:Per','plan','net zero company by 2050:Date'],['Bernard Looney:Per','strategy','documented:Other']]
+
+Explanation: Bernard Looney, the new CEO of BP, has announced plans to make the company a net zero emitter by 2050 and has documented the strategy to achieve this goal.<s>
+
+TEXT: One of the first carbon-neutral tour operators, Intrepid has invested more than £2.5m into grassroots projects globally and donated 100% of profits from a season of trips to Nepal to help rebuild after the 2015 earthquake.
+
+Relations: [['Intrepid:Org','carbon-neutral tour operator','first:Other'],['Intrepid:Org','investment','£2.5m:QuantitativeValue'],['Intrepid:Org','global projects','grassroots projects:Other'],['Intrepid:Org','donation','100% of profits:QuantitativeValue'],['Intrepid:Org','donation','season of trips:Event'],['Intrepid:Org','donation','rebuild after 2015 earthquake:Event']]
+
+Explanation: Intrepid is one of the first carbon-neutral tour operators and has invested more than £2.5m in global grassroots projects, donating 100% of profits from a season of trips to Nepal for earthquake reconstruction.<s>
+
+TEXT: Earlier this year, the Australian Energy Market Operator (Aemo) warned electricity demand “may exceed supply” at times over the next decade due to factors such as weather conditions or generator outages.
+
+Relations: [['Australian Energy Market Operator:Org', 'warns', 'electricity demand may exceed supply']]
+Explanation: The Australian Energy Market Operator issued a warning about the possibility of electricity demand exceeding supply in the coming decade due to various factors such as weather and generator outages.
+
+TEXT: Six years ago, Island Aviation - which includes Auckland Seaplanes and Waiheke Wings - became New Zealand's first air operator to achieve carboNZero status.
+
+Relations: [['Island Aviation:Org', 'include', 'Auckland Seaplanes:Org'], ['Island Aviation:Org', 'include', 'Waiheke Wings:Org'], ['Island Aviation:Org', 'became', 'New Zealand's first air operator to achieve carboNZero status'], ['Island Aviation:Org', 'achieve', 'carboNZero status']]
+Explanation: The text mentions that Island Aviation, which consists of Auckland Seaplanes and Waiheke Wings, became the first air operator in New Zealand to achieve carboNZero status back in 2026.
+
+TEXT: The Treasury, Federal Reserve, and Federal Deposit Insurance Corporation unveiled a plan to contain fallout from Silicon Valley Bank's collapse, and said taxpayers would not bear the costs.
+
+Relations: [['The Treasury:Org', 'unveil', 'plan to contain fallout from Silicon Valley Bank:Org'], ['Federal Reserve:Org', 'Federal Deposit Insurance Corporation:Org', 'unveil', 'plan to contain fallout from Silicon Valley Bank:Org'], ['Silicon Valley Bank:Org', 'collapse'], ['taxpayers', 'not bear the costs']]
+Explanation: The Treasury, in conjunction with the Federal Reserve and Federal Deposit Insurance Corporation, unveiled a plan to address the fallout from Silicon Valley Bank's collapse, and assured that taxpayers would not bear the costs.
+
+TEXT: FCA tells NatWest, Lloyds, HSBC and Barclays to act more quickly to support consumers after profiteering claims.
+
+Relations: [['Financial Conduct Authority:Org', 'asks', 'NatWest:Org', 'Lloyds:Org', 'HSBC:Org', 'Barclays:Org'], ['act more quickly', 'upport consumers', 'after profiteering claims']]
+Explanation: The UK's Financial Conduct Authority (FCA) has requested that NatWest, Lloyds, HSBC, and Barclays take more prompt action to support consumers in the wake of profiteering claims.
+
+TEXT: The energy regulator, Ofgem, said it would investigate whether the owner of Britain’s biggest power plant, in North Yorkshire, was in breach of the reporting rules required for its renewable energy subsidy scheme.
+
+Relations: [['Ofgem:Org','regulatory agency','energy'],['Ofgem','investigating','breach of reporting rules'],['owner of Britain's biggest power plant:Per','in breach of reporting rules'],['Britain's biggest power plant:Per','located in','North Yorkshire:Loc']]
+
+Explanation: Ofgem is the regulatory agency responsible for the energy market in the UK. They announced they would investigate a breach of reporting rules by the owner of the biggest power plant in Britain, located in North Yorkshire.
+
+TEXT: Some of America’s most prominent companies, including Apple, Amazon, Microsoft and Disney, are backing business groups that are fighting landmark climate legislation, despite their own promises to combat the climate crisis, a new analysis has found.
+
+Relations: [['Apple:Per','prominent company','America'],['Apple','backing','business groups'],['Apple','promises','combat climate crisis'],['Amazon:Per','prominent company','America'],['Amazon','backing','business groups'],['Amazon','promises','combat climate crisis'],['Microsoft:Per','prominent company','America'],['Microsoft','backing','business groups'],['Microsoft','promises','combat climate crisis'],['Disney:Per','prominent company','America'],['Disney','backing','business groups'],['Disney','promises','combat climate crisis'],['new analysis:Work','finding','companies backing business groups']]
+
+Explanation: Some of America's most prominent companies, including Apple, Amazon, Microsoft, and Disney, are backing business groups fighting climate legislation, despite their promises to combat the climate crisis. The new analysis shows that these companies are not aligned with their stated goals.
+
+TEXT: The far-right Alternative für Deutschland has won a district council election in Germany for the first time, in what is being referred to as a watershed moment in the country’s politics.
+
+Relations: [['Alternative für Deutschland:Per','far-right political party','Germany'],['Alternative für Deutschland','won','district council election'],['district council election:Event','first time'],['watershed moment:Award','referred to','country’s politics']]
+
+Explanation: The far-right political party Alternative für Deutschland has won a district council election in Germany for the first time, marking a significant moment in the country's politics.
+
+TEXT: The EPP, the European parliament’s largest group, says it supports climate goals but objects to ‘bad proposal’.
+
+Relations: [['EPP:Org','largest group','European parliament'],['EPP','support','climate goals'],['EPP','object','bad proposal']]
+
+Explanation: The European Parliament's largest group, the EPP, claims to support climate goals.
+
+TEXT: Formally referred to as the Republic of South Sudan, this landlocked East-Central African nation gained independence from the Republic of the Sudan on July 9, 2011, after several years of conflict between the two countries.
+
+Relations:
+[['Republic of South Sudan:Loc','also known as','South Sudan:Loc'],['Republic of South Sudan:Loc','gained independence from','Republic of Sudan:Loc'],['Republic of South Sudan:Loc','landlocked','East-Central Africa:Loc'],['Conflict:Event','between','Republic of Sudan:Loc','Republic of South Sudan:Loc']]
+Explanation: South Sudan is an East-Central African nation that gained independence from Sudan in 2011. It's commonly known as the Republic of South Sudan, and it was formed after years of conflict between the two countries. The country is landlocked.
+
+TEXT: It was a shocking presentation, even in a country like Serbia, where many adults have painful memories of the Yugoslav wars of the 1990s and their atrocities.
+
+Relations: [['Serbia:Loc','memories','Yugoslav wars:Event'],['Serbia:Loc','memories','atrocities:Other'],['country:Loc','like','Serbia:Loc'],['many adults:Per','memories','Yugoslav wars:Event'],['many adults:Per','memories','atrocities:Other']]
+Explanation: The text describes the memories of Yugoslav wars and atrocities in Serbia, where many adults have experienced them.
+
+TEXT: The magnificent Dolomite Mountains are in a sensationally scenic part of northern Italy, where you can soak in lake views, enjoy invigorating walks and sample wine from local vineyards.
+
+Relations: [['Dolomite Mountains:Loc','location','northern Italy:Loc'],['Dolomite Mountains:Loc','magnificent','description'],['part:Loc','sensationally scenic','northern Italy:Loc'],['lake views:Other','soak in','northern Italy:Loc'],['walks:Other','enjoy invigorating','northern Italy:Loc'],['wine:Other','sample','local vineyards:Other']]
+Explanation: The Dolomite Mountains are situated in northern Italy and known for its magnificent beauty, where visitors can enjoy invigorating walks, soak in lake views, and sample wine from local vineyards.
+
+TEXT: Lacul Rosu (the Red Lake) is a natural lake that was formed in 1837 when a landslide blocked the Bicaz Valley.
+
+Relations: [['Lacul Rosu:Loc','description','natural lake:Other'],['Lacul Rosu:Loc','formed','1837:Date'],['Lacul Rosu:Loc','location','Bicaz Valley:Loc'],['landslide:Other','blocked','Bicaz Valley:Loc'],['1837:Date','year','formed']]
+Explanation: Lacul Rosu is a natural lake that was formed in 1837 due to a landslide blocking Bicaz Valley, making it one of the most beautiful sights in Romania.
+
+TEXT: The recent departure of the cabinet secretary, Sir Gus O'Donnell, has led to much debate and hand-wringing throughout Whitehall and will be watched carefully by every jurisdiction with Westminster-style models of government.
+Relations: [['Sir Gus O'Donnell:Per','position','Cabinet Secretary'],['Sir Gus O'Donnell:Per','departure','recent'],['Whitehall:Loc','debate','Sir Gus O'Donnell:Per'],['Westminster-style models of government:Org','jurisdiction','Whitehall:Loc']]
+Explanation: Sir Gus O'Donnell was the cabinet secretary in the UK government and has recently left his position, causing debate and interest in other jurisdictions with similar models of governance.
+
+TEXT: European lawmakers are putting their finishing touches on a set of wide-ranging rules designed to govern the use of artificial intelligence that, if passed, would make the E.U. the first major jurisdiction outside of China to pass targeted AI regulation.
+Relations: [['European lawmakers:Per','regulation','artificial intelligence:Work'],['European Union:Loc','legislation','artificial intelligence:Work'],['European Union:Loc','first major jurisdiction','outside of China:Loc'],['European Union:Loc','targeted AI regulation:Work','passed']]
+Explanation: European Union legislators are drafting AI regulation that, if adopted, would be the first of its kind in a major jurisdiction outside of China.
+
+TEXT: France's highest court Friday ruled that the country could try foreign suspects under the universal jurisdiction principle, greenlighting inquiries into two Syrians accused of war crimes and crimes against humanity.
+Relations: [['France:Loc','highest court','Cour de Cassation'],['France','universal jurisdiction principle','applies'],['Cour de Cassation','allow','war crimes and crimes against humanity'],['two Syrians:Per','accused','war crimes and crimes against humanity']]
+Explanation: France's Cour de Cassation has confirmed that the country can prosecute foreign suspects under the universal jurisdiction principle, and this has led to inquiries into two Syrians accused of war crimes and crimes against humanity.
+
+TEXT: As part of such efforts on the national level, a new company was recently established within state-owned Bulgarian Energy Holding – BEH.
+Relations: [['Bulgarian Energy Holding:Org','efforts','national level'],['Bulgarian Energy Holding:Org','new company','established'],['BEH:Org','affiliated','Bulgarian Energy Holding:Org'],['BEH:Org','recently established']]
+Explanation: In pursuit of national goals, a new company has been formed as part of Bulgarian Energy Holding, which is a state-owned enterprise.
+
+TEXT: Romania's gas pipeline operator Transgaz is planning to build a €500m pipeline to bring natural gas from the Neptun Deep block in the Black Sea to the national grid.
+
+Relations: [['Transgaz:Org','plans to build','€500m pipeline:Work'],['Transgaz:Org','operator','gas pipeline:Work'],['Neptun Deep block:Loc','source of natural gas:Other'],['Black Sea:Loc','location of gas source:Other'],['National Grid:Org','destination','gas pipeline:Work']]
+
+Explanation: Transgaz is planning to build a €500m pipeline to bring natural gas from the Neptun Deep block in the Black Sea to the national grid. <s>
+
+TEXT: Transneft, the state-owned operator of the Russian portion of the pipeline, pays transit fees to its Ukrainian counterpart, UkrTransNafta, for the oil to pass through that country.
+
+Relations: [['Transneft:Org','operator','Russian portion of pipeline:Work'],['Transneft:Org','receives payment','UkrTransNafta:Org'],['UkrTransNafta:Org','operator','Ukrainian portion of pipeline:Work'],['Transit fees:Work','flow','oil:Other']]
+
+Explanation: Transneft, the state-owned operator of the Russian portion of the pipeline, receives payment from UkrTransNafta, the operator of the Ukrainian portion of the pipeline, for the oil to pass through that country. <s>
+
+TEXT: The Romanian head of state took the opportunity to call on the European Union (EU) to adopt a new sanctions regime against pro-Russian entities and individuals seeking to derail Moldova's path toward EU accession.
+
+Relations: [['Romanian head of state:Per','calls on','European Union:Org'],['European Union:Org','adoption of sanctions','pro-Russian entities and individuals:Other'],['Moldova:Loc','path toward EU accession:Event']]
+
+Explanation: The Romanian head of state called on the European Union to adopt a new sanctions regime against pro-Russian entities and individuals seeking to derail Moldova's path toward EU accession. <s>
+
+TEXT: Belize, a country of 400,000 citizens, is geographically located in Central America but a part of the English-speaking Caribbean.
+
+Relations: [['Belize:Loc','location','Central America:Loc'],['Belize:Loc','part of','English-speaking Caribbean:Other']]
+
+Explanation: Belize is located in Central America but considered as a part of the English-speaking Caribbean. <s>
+
+TEXT: President Biden backs the plan for Sweden to join the military alliance, but movement has been stalled by Turkey’s opposition.
+
+Relations: [['President Biden:Per','supports','plan for Sweden:Loc to join military alliance:Org'], ['Turkey:Loc','opposition','Sweden:Loc joining military alliance:Org']]
+
+Explanation: President Biden supports Sweden's plan to join the military alliance, but the move has been stalled due to opposition from Turkey. <s>
+
+TEXT: China's commerce ministry publicly rebuked the Biden administration's efforts to push TikTok's Chinese ownership to sell the app or face a possible ban in the United States.
+
+Relations:
+[['China:Loc','ministry of commerce','rebuked'],['United States:Loc','efforts to ban TikTok:Event'],['Biden administration:Org','pushed TikTok's Chinese ownership:Work']]
+
+Explanation: China's Ministry of Commerce has publicly criticized the US government's efforts to force TikTok's Chinese ownership to sell the app or face a possible ban in the US.<s>
+
+TEXT: Nicaragua's Sandinista-controlled congress has cancelled nearly 200 non-governmental organizations, ranging from a local equestrian center to the 94-year-old Nicaraguan Academy of Letters, in what critics say is Daniel Ortega's attempt to eliminate the country's civil society.
+
+Relations:
+[['Nicaragua:Loc','congress','controlled by Sandinistas:Org'],['Nicaraguan Academy of Letters:Org','cancelled'],['NGOs:Work','cancelled'],['Daniel Ortega:Per','attempt to eliminate civil society:Event']]
+
+Explanation: Nicaragua's congress, controlled by the Sandinista party, has cancelled nearly 200 non-governmental organizations, including the Nicaraguan Academy of Letters, which is 94 years old, as part of a move to eliminate civil society in the country.<s>
+
+TEXT: Belize is the only Commonwealth realm King Charles has never visited.
+
+Relations:
+[['Belize:Loc','King Charles:Per','visited'],['Belize:Loc','Commonwealth realm:Loc']]
+
+Explanation: King Charles has visited every Commonwealth realm except Belize.<s>
+
+TEXT: The organizers of Missing and Murdered Indigenous Women (MMIW) events in Calgary were already embedded in local Indigenous communities and had ties to other activists through past work with Idle No More or Women's Marches.
+
+Relations:
+[['Organizers:Per','organized MMIW events:Event'],['Organizers:Per','embedded in local Indigenous communities:Loc']],
+['Organizers:Per','connected to other activists:Work'],
+[['Idle No More:Org','related movement','Women's Marches:Event'],'connected to','Organizers:Per']]
+
+Explanation: The organizers of the MMIW events in Calgary have a strong connection to the local Indigenous community and have worked with other activists in the past, including those involved with Idle No More and the Women's March movement.<s>
+
+TEXT: Events such as Northamptonshire’s Shambala and Amsterdam’s DGTL are leading the way, with organisations like A Greener Future, Julie’s Bicycle and Vision 2025 sharing sector knowledge and helping drive standards.
+
+* [['A Greener Future:Org','collaborates with','Julie's Bicycle:Org'], [['A Greener Future:Org','collaborates with','Vision 2025:Org'], [['Julie's Bicycle:Org','focus','sustainability'], [['Julie's Bicycle:Org','collaborates with','Shambala:Event'], [['Vision 2025:Org','focus','driving standards']]]
+
+Explanation: Various organizations are collaborating to drive sustainability and standards in the sector. Shambala and DGTL are leading the way, and organizations like A Greener Future, Julie's Bicycle, and Vision 2025 are sharing knowledge and collaborating to drive standards in the industry.
+
+TEXT: The 16 Days of Activism against Gender-Based Violence is an annual campaign that begins on 25 November, the International Day for the Elimination of Violence against Women, and runs through International Human Rights Day on 10 December.
+
+* [['16 Days of Activism against Gender-Based Violence:Event','start date','25 November:Date'], [['16 Days of Activism against Gender-Based Violence:Event','end date','10 December:Date'], [['International Day for the Elimination of Violence against Women:Event','date','25 November:Date'], [['International Human Rights Day:Event','date','10 December:Date']]]
+
+Explanation: The 16 Days of Activism against Gender-Based Violence is an annual campaign that starts on 25 November, the International Day for the Elimination of Violence against Women, and ends on 10 December, International Human Rights Day.
+
+TEXT: The representative Kamal Fadel, who had been formally invited to the Albert Hall event on Thursday evening, was initially stopped from entering by Moroccan diplomats.
+
+* [['Kamal Fadel:Per','invited to','Albert Hall:Event'], [['Kamal Fadel:Per','stopped from entering','Moroccan diplomats:Org']]]
+
+Explanation: Kamal Fadel had been formally invited to the Albert Hall event, but Moroccan diplomats prevented him from entering.
+
+TEXT: The March for Life, held each year for a half-century, should be a celebration now that Roe v. Wade has fallen.
+
+* [['March for Life:Event','frequency','annual'], [['March for Life:Event','duration','half-century']], [['Roe v. Wade:Event','overturned']]]
+
+Explanation: The March for Life has been held annually for a half-century, and it should be a celebration now that Roe v. Wade has been overturned.
+
+TEXT: Saturday, July 1 will see nearly 2,500 people taking part in the Pretty Muddy events, followed by almost 2,000 taking part in three different distance events to raise money for Cancer Research UK.
+
+Relations: [['Pretty Muddy events:Event','attendance','2,500 people'],['Cancer Research UK:Org','beneficiary','fundraising events']]
+
+Explanation: The Pretty Muddy events are taking place on July 1 and a total of 2,500 people are expected to attend. The events are being organized to raise money for Cancer Research UK.<s>
+
+TEXT: Steven Donziger, an attorney who was embroiled in a long-running legal battle with Chevron on behalf of Indigenous people in Ecuador, said the payments are part of a “dangerous trend” of fossil fuel influence over the functions of government and the law.
+
+Relations: [['Steven Donziger:Per','involvement','Chevron:Org'],['Chevron:Org','legal battle','Indigenous people in Ecuador:Loc'],['fossil fuel influence:Other','impact','functions of government and the law:Work']]
+
+Explanation: Steven Donziger was involved in a legal battle against Chevron on behalf of Indigenous people in Ecuador, where he accused the company of environmental pollution. Donziger claims that the payments made by Chevron are part of a dangerous trend in which fossil fuel companies influence government functions and the law.<s>
+
+TEXT: Wagner Group founder Yevgeny Prigozhin released a series of announcements on June 23, accusing Russia’s Defense Ministry of intentionally striking Wagner positions.
+
+Relations: [['Yevgeny Prigozhin:Per','founder','Wagner Group:Org'], ['Yevgeny Prigozhin:Per','accuses','Russia's Defense Ministry:Org'], ['Yevgeny Prigozhin:Per','claims','strikes on Wagner positions:Event']]
+
+Explanation: Yevgeny Prigozhin is the founder of Wagner Group and alleges that Russia's Defense Ministry is intentionally striking Wagner positions.
+
+TEXT: Prigozhin said his troops were on a “march for justice" and at one point they were reported headed toward Moscow.
+
+Relations: [['Yevgeny Prigozhin:Per','troops','march for justice:Event'], ['Yevgeny Prigozhin:Per','troops','heading towards Moscow:Location']]
+
+Explanation: Yevgeny Prigozhin stated that his troops are on a march for justice and at one point they were headed towards Moscow.

@@ -1,0 +1,53 @@
+Comparing the provided relations with the gold standard, we can compute the F1 score to evaluate the accuracy of the extracted relations.
+
+1. Artificial intelligence pioneer Yoshua Bengio says regulation in Canada is on the right path, but advancing along it far too slowly.
+
+Extracted relations:
+- [['Yoshua Bengio:Per','comments on','regulation in Canada:Other'],['regulation in Canada:Other','progress','advancing far too slowly']]
+
+Gold standard relations:
+- [['Yoshua Bengio:Per','field of work','A.I.'],['A.I. regulation','jurisdiction','Canada']]
+
+There are no correct extracted relations in this case, resulting in an F1 score of 0.
+
+2. Anthropic was formed in 2021 when a group of researchers led by Dario Amodei left OpenAI after a disagreement over the company’s direction.
+
+Extracted relations:
+- [['Anthropic:Org','formed','2021:Date'],['Dario Amodei:Per','leads','group of researchers:Other'],['Dario Amodei:Per','left','OpenAI:Org'],['disagreement','over','company’s direction:Work']]
+
+Gold standard relations:
+- [['Anthropic:Org','founded','2021'],['Dario Amodei:Per','employer','Anthropic:Org'],['Dario Amodei:Per','field of work','AI'],['Dario Amodei:Per','position','researcher'],['Dario Amodei:Per', 'previously with', 'OpenAI:Org']]
+
+The extracted relations accurately capture the formation of Anthropic in 2021 and Dario Amodei's role in leading the group of researchers and previously being with OpenAI. The F1 score is 1.
+
+3. The current indictment is related to Tel Drum - a company allegedly used by a criminal group, including Dragnea, for siphoning public funds and funds from the European Union’s budget (a situation that would put the case under the jurisdiction of the EU Public Prosecutor’s Office headed by Laura Codruta Kovesi).
+
+Extracted relations:
+- [['current indictment:Other','related to','Tel Drum:Other'],['Tel Drum:Other','allegedly used by','criminal group:Other'],['Tel Drum:Other','allegedly used by','Dragnea:Per'],['Tel Drum:Other','siphoning','public funds:Other'],['Tel Drum:Other','siphoning','funds from the European Union’s budget:Other'],['case','under jurisdiction of','EU Public Prosecutor’s Office:Org'],['EU Public Prosecutor’s Office:Org','head','Laura Codruta Kovesi:Per']]
+
+Gold standard relations:
+- [['Tel Drum','indictment','European Union'],['EU Public Prosecutor's Office','jurisdiction','European Union's budget'],['Laura Codruta Kovesi','director','EU Public Prosecutor's Office']]
+
+The extracted relations correctly identify the indictment related to Tel Drum, the alleged use of the company by a criminal group including Dragnea, and the jurisdiction of the EU Public Prosecutor's Office headed by Laura Codruta Kovesi. The F1 score is 1.
+
+4. Tom Herman, Ohio State’s co-offensive coordinator and quarterbacks coach, would prefer not to be known as the Mensa assistant, but it has trailed him.
+
+Extracted relations:
+- [['Tom Herman:Per','position','Ohio State’s co-offensive coordinator'],['Tom Herman:Per','position','quarterbacks coach'],['Tom Herman:Per','preference','not to be known as Mensa assistant']]
+
+Gold standard relations:
+- [['Ohio State:Org','employs','Tom Herman:Per'],['Tom Herman:Per','occupation','co-offensive coordinator'],['Tom Herman:Per','occupation','quarterbacks coach'],['Tom Herman:Per','member of','Mensa:Org']]
+
+The extracted relations accurately identify Tom Herman's positions as co-offensive coordinator and quarterbacks coach at Ohio State, but miss out on his membership in Mensa. The F1 score is 0.75.
+
+5. Bridget Phillipson, a senior member of Keir Starmer’s team, said any complaint against a Labour MP should be looked into, but that she did not believe Phillips was racist.
+
+Extracted relations:
+- [['Bridget Phillipson:Per','member of','Keir Starmer’s team:Org'],['Bridget Phillipson:Per','comments on','complaint against MP'],['Phillips:Per','member','Labour Party:Org']]
+
+Gold standard relations:
+- [['Bridget Phillipson:Per','member of','Keir Starmer team:Org'],['Bridget Phillipson:Per', 'position', 'senior member'],['Bridget Phillipson:Per','comments on','complaint against MP'],['Phillips:Per','member','Labour Party:Org']]
+
+The extracted relations accurately identify Bridget Phillipson as a member of Keir Starmer's team and her comments on a complaint against an MP. The F1 score is 1.
+
+Overall F1 score: (0 + 1 + 1 + 0.75 + 1) / 5 = 0.75

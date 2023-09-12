@@ -1,0 +1,150 @@
+Relations:
+1. [['Yoshua Bengio:Per', 'jurisdiction', 'Canada:Loc']]
+Explanation: Yoshua Bengio, an artificial intelligence pioneer, mentions that regulation in Canada is on the right path but is progressing too slowly.
+
+2. [['Dario Amodei:Per', 'left', 'OpenAI:Org']]
+Explanation: Dario Amodei and a group of researchers left OpenAI due to a disagreement over the company's direction, forming a new organization called Anthropic.
+
+3. [['Tel Drum:Org', 'part of', 'criminal group']]
+Explanation: Tel Drum, a company, is allegedly part of a criminal group involved in siphoning public funds and funds from the European Union's budget.
+
+4. [['Tom Herman:Per', 'position', 'Ohio State:Org']]
+Explanation: Tom Herman, co-offensive coordinator and quarterbacks coach, holds a position at Ohio State.
+
+5. [['Bridget Phillipson:Per', 'member of', "Keir Starmer's team:Org"]]
+Explanation: Bridget Phillipson, a senior member of Keir Starmer's team, believes that any complaint against a Labour MP should be investigated, but she does not believe that Phillips is racist.
+
+6. [['Neal Lawson:Per', 'moves to discipline', 'MP:Org']]
+Explanation: MP says moves to discipline Neal Lawson, who heads pressure group Compass.
+
+7. [['Shou Zi Chew:Per', 'attempts to play down', 'concerns over data and privacy']]
+Explanation: Shou Zi Chew attempts to minimize concerns over data and privacy as lawmakers call for a ban on a Chinese-owned app.
+
+8. [['Aidan Gomez:Per', 'founder and CEO of', 'Cohere AI:Org']]
+Explanation: Aidan Gomez, the co-founder and CEO of Cohere AI, discusses fears surrounding the technology.
+
+9. [['Russia:Loc', 'jurisdiction', 'Ukraine:Loc']]
+Explanation: The Commission presented different options to Member States to hold Russia accountable for atrocities and crimes committed during the war in Ukraine.
+
+10. [['Argentina:Loc', 'justice system will investigate', 'Myanmar military:Event']]
+Explanation: Argentina's justice system will investigate allegations of war crimes committed by the Myanmar military against the Rohingya minority.
+
+11. [['Organisation for Economic Co-operation and Development:Org', 'involved', '136 countries and jurisdictions']]
+Explanation: 136 countries and jurisdictions have agreed to join an accord to impose a two-pillar global tax reform plan led by the Organisation for Economic Co-operation and Development.
+
+12. [['United States State Department:Org', 'recommit to', 'UNESCO:Event']]
+Explanation: The US State Department has decided to recommit to the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+
+13. [['OPEC:Org', 'invited', 'Ecuador:Loc']]
+Explanation: The Secretary General of the Organization of Petroleum Exporting Countries invited Ecuador to once again be part of the International.
+
+14. [['May 25th, 2017:Event', 'started', 'Africans Rising:Org']]
+Explanation: May 25th, 2017 marks the start of Africans Rising, a pan-African movement of individuals, organizations, and movements fighting for a peaceful, just, and united continent.
+
+15. [['Nigeria:Loc', 'projected to hit', '400 million people by 2050']]
+Explanation: Nigeria's population is projected to reach 400 million people by 2050, prompting the United Nations Food and Agricultural Organisation to call for decisive action by the Nigerian government.
+
+16. [['BP:Org', 'announced plans to make', 'net zero company by 2050']]
+Explanation: BP's new CEO announced plans to make the company a net zero entity by 2050.
+
+17. [['Intrepid:Org', 'carbon-neutral tour operator']]
+Explanation: Intrepid is one of the first carbon-neutral tour operators, investing in grassroots projects and donating profits to causes such as earthquake recovery.
+
+18. [['Australian Energy Market Operator:Org', 'warned', 'electricity demand may exceed supply']]
+Explanation: The Australian Energy Market Operator warned that electricity demand may exceed supply in the next decade due to various factors.
+
+19. [['Island Aviation:Org', 'achieved', 'New Zealand:Loc']]
+Explanation: Island Aviation, which includes Auckland Seaplanes and Waiheke Wings, became New Zealand's first air operator to achieve carboNZero status.
+
+20. [['Treasury:Org', 'unveiled', 'plan to contain fallout from Silicon Valley Bank’s collapse']]
+Explanation: The Treasury, Federal Reserve, and Federal Deposit Insurance Corporation unveiled a plan to contain fallout from Silicon Valley Bank's collapse.
+
+21. [['FCA:Org', 'tells', 'NatWest, Lloyds, HSBC, and Barclays']]
+Explanation: The FCA tells NatWest, Lloyds, HSBC, and Barclays to act more quickly to support consumers after profiteering claims.
+
+22. [['Ofgem:Org', 'investigate', 'owner of Britain’s biggest power plant']]
+Explanation: Ofgem will investigate whether the owner of Britain's biggest power plant is in breach of reporting rules required for its renewable energy subsidy scheme.
+
+23. [['Apple:Org', 'backing', 'business groups fighting climate legislation']]
+Explanation: Prominent companies like Apple, Amazon, Microsoft, and Disney are backing business groups fighting landmark climate legislation, despite their own promises to combat the climate crisis.
+
+24. [['Alternative für Deutschland:Org', 'won', 'district council election in Germany']]
+Explanation: The far-right Alternative für Deutschland party won a district council election in Germany for the first time.
+
+25. [['EPP:Org', 'supports', 'climate goals', 'but objects to', 'bad proposal']]
+Explanation: The European parliament's largest group, EPP, supports climate goals but objects to a specific proposal.
+
+26. [['South Sudan:Loc', 'gained independence from', 'Sudan:Loc']]
+Explanation: South Sudan gained independence from Sudan on July 9, 2011, after years of conflict.
+
+27. [['Serbia:Loc', 'painful memories of', 'Yugoslav wars:Event']]
+Explanation: In Serbia, many adults have painful memories of the Yugoslav wars of the 1990s and their atrocities.
+
+28. [['Dolomite Mountains:Loc', 'part of', 'northern Italy:Loc']]
+Explanation: The Dolomite Mountains are located in a scenic part of northern Italy.
+
+29. [['Lacul Rosu:Loc', 'formed', '1837 when a landslide blocked the Bicaz Valley']]
+Explanation: Lacul Rosu, known as the Red Lake, was formed in 1837 due to a landslide blocking the Bicaz Valley.
+
+30. [['Sir Gus O'Donnell:Per', 'departure', 'led to', 'debate and hand-wringing throughout Whitehall']]
+Explanation: The departure of Sir Gus O'Donnell, the cabinet secretary, has sparked debate and hand-wringing throughout Whitehall.
+
+31. [['European Union:Org', 'pass', 'targeted AI regulation']]
+Explanation: European lawmakers are finalizing rules to govern the use of artificial intelligence, making the EU the first major jurisdiction to pass targeted AI regulation.
+
+32. [['France:Loc', 'ruled', 'country could try foreign suspects under universal jurisdiction principle']]
+Explanation: France's highest court ruled that the country can try foreign suspects under the principle of universal jurisdiction.
+
+33. [['Bulgarian Energy Holding:Org', 'established', 'new company']]
+Explanation: A new company was recently established within the state-owned Bulgarian Energy Holding.
+
+34. [['Transgaz:Org', 'planning to build', '€500m pipeline']]
+Explanation: Romania's gas pipeline operator, Transgaz, has plans to build a €500m pipeline to bring natural gas from the Neptun Deep block to the national grid.
+
+35. [['Transneft:Org', 'pays transit fees to', 'UkrTransNafta:Org']]
+Explanation: Transneft, the Russian oil pipeline operator, pays transit fees to UkrTransNafta for the oil to pass through Ukraine.
+
+36. [['President of Romania:Per', 'called on', 'European Union:Org']]
+Explanation: The Romanian head of state called on the European Union to adopt a new sanctions regime against pro-Russian entities and individuals seeking to derail Moldova's path toward EU accession.
+
+37. [['Belize:Loc', 'part of', 'English-speaking Caribbean']]
+Explanation: Belize is geographically located in Central America but is part of the English-speaking Caribbean.
+
+38. [['President Biden:Per', 'backs', 'Sweden joining military alliance']]
+Explanation: President Biden supports Sweden joining the military alliance, but progress has been stalled due to Turkey's opposition.
+
+39. [['China:Loc', 'rebuked', 'Biden administration’s efforts']]
+Explanation: China's commerce ministry publicly rebuked the Biden administration's efforts to push TikTok's Chinese ownership to sell the app or face a possible ban in the United States.
+
+40. [['Nicaragua:Loc', 'has cancelled', 'nearly 200 non-governmental organizations']]
+Explanation: Nicaragua's Sandinista-controlled congress has cancelled nearly 200 non-governmental organizations, including the Nicaraguan Academy of Letters, as part of Daniel Ortega's attempt to eliminate the country's civil society.
+
+41. [['Belize:Loc', 'never visited', 'King Charles:Per']]
+Explanation: King Charles has never visited Belize, which is the only Commonwealth realm he has not visited.
+
+42. [['Missing and Murdered Indigenous Women:Org', 'organizers of', 'Calgary:Event']]
+Explanation: The organizers of Missing and Murdered Indigenous Women events in Calgary have ties to local Indigenous communities and other activists.
+
+43. [['Northamptonshire’s Shambala:Event', 'leading the way', 'sector knowledge']]
+Explanation: Events like Northamptonshire's Shambala and Amsterdam's DGTL are leading the way in terms of sustainability standards, with organizations sharing knowledge and driving standards.
+
+44. [['16 Days of Activism against Gender-Based Violence:Event', 'annual campaign', 'begins on', 'Nov 25th', 'runs through', 'Dec 10th']]
+Explanation: The 16 Days of Activism against Gender-Based Violence is an annual campaign that starts on November 25th, the International Day for the Elimination of Violence against Women, and ends on December 10th, International Human Rights Day.
+
+45. [['Albert Hall:Event', 'the representative Kamal Fadel was initially stopped from entering']]
+Explanation: The representative Kamal Fadel was initially stopped from entering the Albert Hall event by Moroccan diplomats.
+
+46. [['March for Life:Event', 'should be a celebration', 'Roe v. Wade responded']]
+Explanation: The March for Life, held annually, should be a celebration now that Roe v. Wade has been overruled.
+
+47. [['July 1st:Event', 'nearly 2,500 people taking part in the Pretty Muddy events']]
+Explanation: On July 1st, almost 2,500 people will participate in the Pretty Muddy events, raising money for Cancer Research UK.
+
+48. [['Steven Donziger:Per', 'embroiled in', 'legal battle with Chevron:Org']]
+Explanation: Steven Donziger, an attorney, was involved in a legal battle with Chevron on behalf of indigenous people in Ecuador, and he believes that fossil fuel influence is dangerous for government and the law.
+
+49. [['Yevgeny Prigozhin:Per', 'founder of', 'Wagner Group:Org']]
+Explanation: Yevgeny Prigozhin, the founder of Wagner Group, released announcements accusing Russia's Defense Ministry of intentionally striking Wagner positions.
+
+50. [['Yevgeny Prigozhin:Per', 'troops on', 'march for justice']]
+Explanation: Yevgeny Prigozhin stated that his troops were on a "march for justice" and were at one point reportedly headed towards Moscow.

@@ -1,0 +1,343 @@
+PER
+employer, field of work
+https://edition.cnn.com/2023/05/01/tech/geoffrey-hinton-leaves-google-ai-fears/index.html
+TEXT: Geoffrey Hinton, who has been called the ‘Godfather of AI,’ confirmed Monday that he left his role at Google last week to speak out about the “dangers” of the technology he helped to develop.
+Relations: [['Geoffrey Hinton:Per', 'Work For', 'Google'],['Geoffrey Hinton:Per','field of work','A.I.'],['Geoffrey Hinton:Per','also known as','Godfather of AI']]
+Explanation: Geoffrey Hinton is a computer scientist known for his work with neural networks and considered to be a 'Godfather of AI'.<s>
+
+
+https://www.ctvnews.ca/sci-tech/ai-guru-yoshua-bengio-says-regulation-too-slow-warns-of-existential-threats-1.6411604
+TEXT: Artificial intelligence pioneer Yoshua Bengio says regulation in Canada is on the right path, but advancing along it far too slowly.
+Relations: [['Yoshua Bengio:Per','field of work','A.I.'],['Canada:Loc','jurisdiction','A.I. regulation']]
+Explanation: Yoshua Bengio is one of the deep learning pioneers together with Geoffrey Hinton and Yan LeCun.<s>
+
+
+https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c
+TEXT: Anthropic was formed in 2021 when a group of researchers led by Dario Amodei left OpenAI after a disagreement over the company’s direction.
+Relations: [['Dario Amodei:Per','employer','Anthropic:Org'],['Dario Amodei:Per','field of work','AI'],['Dario Amodei:Per','researcher','OpenAI:Org'],['Anthropic:Org','start time','2021']]
+Explanation: Daio Amodei and a group of researchers left OpenAI in 2021 and formed a new company called Anthropic.<s>
+
+https://www.romania-insider.com/dragnea-indicted-abuse-office-jun-2020
+TEXT: The current indictment is related to Tel Drum - a company allegedly used by a criminal group, including Dragnea, for siphoning public funds and funds from the European Union’s budget (a situation that would put the case under the jurisdiction of the EU Public Prosecutor’s Office headed by Laura Codruta Kovesi). 
+Relations: [['Tel Drum','indictment','European Union],['EU Public Prosecutor's Office','jurisdiction','European Union's budget'],['Laura Codruta Kovesi','director','EU Public Prosecutor's Office']]
+Explanation: A case against Tel Drum, a criminal group used by Dragnea, is prosecuted in a case that would fall under the jurisdiction of EU Public Prosecutor's Office headed by Lara Codruta Kovesi.<s>
+
+member of, occupation, position
+https://theconversation.com/caroline-lucas-and-the-heavy-burden-of-being-a-partys-only-member-of-parliament-207338
+TEXT: Green MP Caroline Lucas’s announcement that she will be leaving parliament at the next general election will have come as a surprise to many.
+Relations: [['Caroline Lucas:Per','member of','Green Party:Org'],['Caroline Lucas','position','MP']]
+Explanation: Caroline Lucas holds the position of MP for the Green Party UK until the next general election.<s>
+
+https://www.nytimes.com/2013/10/25/sports/ncaafootball/the-mensa-member.html
+TEXT: Tom Herman, Ohio State’s co-offensive coordinator and quarterbacks coach, would prefer not to be known as the Mensa assistant, but it has trailed him.
+Relations: [['Ohio State:Org','employs','Tom Herman:Per'],['Tom Herman:Per','position','Co-offensive Coordinator'],['Tom Herman:Per','position','Quarterbacks coach'],['Tom Herman:Per','member of','Mensa:Org'],['Tom Herman:Per','also known as','Mensa Assistant']]
+Explanation: Tom Herman is part of Mensa and Ohio State team where he occupies the positions of co-offensive coordinator and quarterback coach.<s>
+
+https://www.theguardian.com/politics/2023/jul/02/labour-jess-phillips-katharine-birbalsingh-complaint-allegation
+TEXT: Bridget Phillipson, a senior member of Keir Starmer’s team, said any complaint against a Labour MP should be looked into, but that she did not believe Phillips was racist.
+Relations: [['Bridget Phillipson:Per','member of','Keir Starmer team:Org']]
+Explanation: Bridget Phillipson is a member of Keir Starmer's team and believes Phillips was not a racist.<s>
+
+opposition
+https://www.thelocal.at/20230605/breaking-austrias-spo-party-announces-babler-as-leader-after-vote-mix-up
+TEXT: Austria's biggest opposition party, the centre-left SPÖ confirmed Andreas Babler as its new chairman on Monday after initially announcing Hans Peter Doskozil had won the race to lead the party.
+Relations: [['SPÖ','political opposition','Austria'],['Andreas Babler','chairman','SPÖ']]
+Explanation: Andreas Babler was confirmed chairman of SPÖ, Austria's biggest opposition party, after a misunderstanding.<s>
+
+https://www.theguardian.com/politics/2023/jul/01/rightwing-illiberal-labour-mp-jon-cruddas-condemns-keir-starmers-witch-hunt
+TEXT: MP says moves to discipline Neal Lawson, who heads pressure group Compass, are a ‘disgrace’.
+Relations: [['MP:Per', 'position', 'Member of Parliament'],['MP:Per','opposes','Neal Lawson discipline'],['Neal Lawson:Per', 'position', 'Head'], ['Neal Lawson:Per', 'position', 'Pressure group Compass']]
+Explanation: MP Jon Cruddas condemns the Keir Starmer's witch hunt which includes the Neal Lawson discipline.<s>
+
+https://www.theguardian.com/technology/2023/mar/23/tiktok-shou-zi-chew-congress
+TEXT: Shou Zi Chew attempts to play down concerns over data and privacy as lawmakers call for ban on Chinese-owned app.
+Relations: [['Shou Zi Chew:Per', 'position', 'Attempting to play down'],['Shou Zi Chew:Per','supports','China:Loc'],['Shou Zi Chew:Per','opposes','data privacy']]
+Explanation: Shou Zi Chew is the CEO of TikTok, a company from China, and seems to downplay U.S. concers over data privacy.<s>
+
+ORG
+director, CEO, field of work
+https://edition.cnn.com/videos/business/2023/06/27/exp-ai-cohere-aidan-gomez-intv-fst-062709aseg2.cnn
+TEXT: Aidan Gomez, the co-founder and CEO of Cohere AI, speaks to Julia Chatterley about fears around the technology.
+Relations: [['Aidan Gomez:Per','CEO','Cohere AI:Org'],['Aidan Gomez:Per','co-founder','Cohere AI:Org'],['Aidan Gomez:Per','field of work','AI']]
+Explanation: Aidan Gomez is the CEO and co-founder of Cohere AI and works in the field of AI.<s>
+
+jurisdiction
+https://www.eppo.europa.eu/en/news/european-chief-prosecutor-meets-chief-prosecutors-republic-moldova
+TEXT: Both parties shared their wish to strengthen their cooperation in investigations within the EPPO’s jurisdiction, after Moldova was granted candidate status for European Union membership in June 2022.
+Relations: [['European Public Prosecutor's Office:Org','jurisdiction','European Union:Loc'],['Moldova:Loc','candidate status','European Union:Loc'],['Moldova:Loc','candidate statues','June 2022:Event']]
+Explanation: Moldova was granted candidate status for European Union membership in June 2022 and expressed its desire to strengthen its cooperation with the European Public Prosecutor's Office.<s>
+
+https://ec.europa.eu/commission/presscorner/detail/es/ip_22_7311
+TEXT: The Commission presented today different options to Member States to make sure that Russia is held accountable for the atrocities and crimes committed during the war in Ukraine. 
+Relations: [['European Commision:Org','jurisdiction','E.U. Member States:Loc'],['Russia:Loc','war crime','2022 Russian invasion of Ukraine:Event']]
+Explanation: The European Comission presented various legal options to Member States to make sure that Russia will be held accountable for its war crimes during the 2022 Russian invasion of Ukraine.<s>
+
+https://www.theguardian.com/world/2021/nov/29/argentina-court-myanmar-war-crimes-rohingya
+TEXT: Argentina’s justice system will investigate allegations of war crimes committed by the Myanmar military against that country’s Rohingya minority under a court ruling upholding the principles of “universal justice”.
+Relations: [['Argentina's justice system:Org','investigate','war crimes'],['Argentina's justice system:Org','jurisdiction','universal justice'],['Myanmar military:Org','opposes','Rohingya minority:Other']]
+Explanation: Under "universal justice" principle, Argentina can investigate cases from any jurisdiction.<s>
+
+https://www.theguardian.com/business/2021/oct/08/oecd-deal-imposes-global-minimum-corporate-tax-of-15
+TEXT: The Organisation for Economic Co-operation and Development (OECD) said that 136 countries and jurisdictions had agreed to join an accord to impose a two-pillar global tax reform plan.
+Relations: [['Organisation for Economic Co-operation and Development (OECD)','jurisdiction','global']]
+Explanation: Organisation for Economic Co-operation and Development (OECD) has members from 38 countries and looks at global policies for improving business processes.<s>
+
+member of, part of
+https://greekcitytimes.com/2023/06/15/the-united-states-has-once-again-become-a-member-of-unesco/
+The US State Department has decided to recommit to the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+Relations: [['U.S. State Department:Org','part of','United Nations Educational, Scientific and Cultural Organization (UNESCO):Org'],['U.S. State Department:Org','member of','United Nations Educational, Scientific and Cultural Organization (UNESCO):Org']]
+Explanation: The United States withdrew from UNESCO for the second time in 2017, but decided to rejoin in 2023.<s>
+
+https://www.bnamericas.com/en/news/opec-invites-ecuador-to-be-part-of-the-organization-again
+TEXT: This May 12, through a formal letter addressed to the Minister of Energy and Mines, Fernando Santos Alvite; the Secretary General of the Organization of Petroleum Exporting Countries -OPEC-, Haitham Al Ghais; invited Ecuador to once again form part of the International.
+Relations: [['Fernando Santos Alvite:Per','position','Minister of Energy and Mines:Title'],['Haitham Al Ghais:Per','position','Secretary General of the Organization of Petroleum Exporting Countries - OPEC:Title'],['Haitham Al Ghais:Per','letter','Fernando Santos Alvite:Per']]
+Explanation: OPEC Secretary General Haitham Al Ghais invited Ecuador to rejoin OPEC through a letter sent to its Minister of Energy and Mines, Fernando Santos Alvite.<s>
+
+https://www.theguardian.com/environment/2021/jul/01/australia-ranks-last-for-climate-action-among-un-member-countries
+TEXT: The Sustainable Development Report 2021, first reported by Renew Economy, scored Australia last out of 193 United Nations member countries for action taken to reduce global greenhouse gas emissions
+Relations: [['Renew Economy:Org','reported','The Sustainable Development Report 2021:Work'],['Australia:Loc','member of','United Nations:Org']]
+Explanation: Australia, a member of United Nations, was reported on the last place in The Sustainable Development Report 2021.<s>
+
+https://www.theguardian.com/sustainable-business/2015/jun/01/sustainable-palm-oil-climate-change-pepsi-walmart-starbucks
+TEXT: “The RSPO have been left behind,” said Mark Mills, partner at Generation Investment Management, a London-based investment management firm focused on sustainability and a member of UN Principles of Responsible Investment palm oil working group, during a conference call Monday.
+Relations: [['Mark Mills:Per','partner','Generation Investment Management:Org'],['Mark Mills:Per','member of','UN Principles of Responsible Investment palm oil working group']]
+Explanation: Mark Mills is a partner of Generation Investment Management and a member of UN Principles of Responsible Investment palm oil working group.<s>
+
+objective
+https://www.moroccoworldnews.com/2022/08/350943/meet-africans-rising-pan-african-movement-for-peace-justice-unity
+TEXT: In a bid to reclaim the meaning of African liberation day,  started on May 25th, 2017, to join in a  pan-African movement of individuals, organizations, and movements, Africans Rising, to fight for a peaceful, just, and united continent. 
+Relations: [['Africans Rising:Org','objective','pan-Arican movement of individuals, organizations, and movements that fight for a peaceful, just, and united continent'],['African social movements:Other','reclaim','African liberation day:Event']]
+Explanation: Africa Day is held annually on May 25 to commemorate the foundation of the Organization of African Unity. New organizations like Africans Rising want to reclaim this original meaning of the event.<s>
+
+https://www.theguardian.com/business/2023/jan/25/adani-group-firms-lose-9bn-in-value-amid-short-seller-claims
+TEXT: Shares in listed companies tied to Adani’s empire Adani Group lost $9.4bn in market value on Wednesday after short seller investment firm Hindenburg Research published a detailed investigation into accusations of “brazen stock manipulation”, “accounting fraud” and “money laundering.”
+Relations: [['Adani:Per','owner','Adani Group:Org'],['Adani Group:Org','value','down $9.4 bn'],['Hindenburg Research:Org','objective','short seller investment:Other']]
+Explanation: Hindenburg Research, a short seller investment company, published a report accusing Adani Group of massive fraud.<s>
+
+https://guardian.ng/business-services/fao-calls-for-sustainable-action-to-feed-nigerias-growing-population/
+TEXT: With Nigeria’s population projected to hit 400 million people by 2050, the United Nations Food and Agricultural Organisation (FAO) has called for a decisive action by the Nigerian government to ensure sustainable and inclusive food system transformation.
+Relations: [['Nigeria:Loc','population growth','400 million'],['United Nations Food and Agricultural Organisation (FAO):Org','objective','decisive action']]
+Explanation: United Nations Food and Agricultural Organisation (FAO) calls for decisive action to ensure sustainable food in Nigeria due to estimates that its population will hit 400 million people by 2050.<s>
+
+https://www.theguardian.com/environment/ng-interactive/2020/feb/12/bp-statement-on-reaching-net-zero-carbon-emissions-by-2050-what-it-says-and-what-it-means
+TEXT: BP’s new chief executive, Bernard Looney, has announced plans to make it a net zero company by 2050, and outlined its strategy in a document. 
+Relations: [['Bernard Looney:Per','CEO','BP:Org'],['BP:Org','objective','net zero company by 2050']]
+Explanation: BP CEO has outlined a plan to make BP a net zero company by 2050.<s>
+
+operator
+https://www.drinkstrade.com.au/bundaberg-rum-visitor-experience-receives-australias-first-ecotourism-australia-sustainable-tourism-certification
+TEXT: Today the Bundaberg Rum Visitor Experience receives the country’s first Sustainable Tourism Certification from Ecotourism Australia.
+Relations: [['Bundaberg Rum Visitor:Org','awarded','Sustainable Tourism Certification:Award'],['Bundaberg Rum Visitor:Org','industry','tourism'],['Ecotourism Australia:Org','awards','Sustainable Tourism Certification:Award'],['Ecotourism Australia:Org','jurisidiction','Australia:Loc']]
+Explanation: Bundaberg Rum Visitor Experience received the the first Sustainable Tourism Certification in Australia from Ecotourism Australia.<s>
+
+https://www.theguardian.com/travel/2019/jan/26/10-best-ethical-travel-companies-local-community
+TEXT: One of the first carbon-neutral tour operators, Intrepid has invested more than £2.5m into grassroots projects globally and donated 100% of profits from a season of trips to Nepal to help rebuild after the 2015 earthquake
+Relations: [['Intreprid:Org','operator','carbon-neutral tour'],['Intreprid:Org','investment','grasroots projects'],['Intreprid:Org','investment','£2.5m']]
+Explanation: Intreprid, a carbon-neutral tour operator invested over £2.5m in grasroots projects.<s>
+
+https://www.theguardian.com/commentisfree/2023/jun/09/el-nino-is-coming-we-must-plan-for-the-worst-to-protect-australias-energy-system
+TEXT: Earlier this year, the Australian Energy Market Operator (Aemo) warned electricity demand “may exceed supply” at times over the next decade due to factors such as weather conditions or generator outages.
+Relations: [['Australian Energy Market Operator (Aemo):Org', 'operator', 'energy'],['Australian Energy Market Operator (Aemo):Org','jurisdiction','Australia']]
+Explanation: The name of the company itself, Australian Energy Market Operator (Aemo), suggests both the market it operates (energy) on and its jurisdiction (Australia).<s>
+
+https://www.nzherald.co.nz/travel/sustainable-travel-new-zealand-tourism-operators-reducing-their-carbon-footprint/GJWPFBGGWVD2BPD2HWNP6K3F6M/
+TEXT: Six years ago Island Aviation - which includes Auckland Seaplanes and Waiheke Wings - became New Zealand’s first air operator to achieve carboNZero status. 
+Relations: [['Island Aviation:Org','owns','Auckland Seaplanes:Org'],['Island Aviation:Org','owns','Waiheke Wings'],['Island Aviation:Org','operator','air'],['Island Aviation:Org','carbon neutrality','carboNZero']]
+Explanation: Island Aviation which owns Auckland Seaplanes and Waiheke Wings was the first New Zealand air operator to achieve carbon neutrality.<s>
+
+regulator, instance of / field of work
+https://www.theguardian.com/business/2023/jun/02/britibritish-energy-developers-projects-national-grid-solar-power
+TEXT: The energy regulator Ofgem’s chief executive, Jonathan Brearley, last month described the delays as unacceptable and criticised a “legacy of stalled, unviable and often highly speculative ‘zombie’ projects blocking ready-to-go solar, wind and other renewable schemes stuck behind them”.
+Relations: [['Jonathan Brearley:Per','director','Ofgem:Org'],['Ofgen:Org','regulator','energy']]
+Explanation: The director of UK's energy regulator Ofgem explains various unacceptable market behaviours.<s>
+
+https://www.nytimes.com/2023/03/12/business/janet-yellen-silicon-valley-bank.html
+TEXT: The Treasury, Federal Reserve and Federal Deposit Insurance Corporation unveiled a plan to contain fallout from Silicon Valley Bank’s collapse, and said taxpayers would not bear the costs.
+Relations: [['United States Department of the Treasury:Org','regulator','finance'],['Federal Reserve:Org',''regulator','finance'],['Federal Deposit Insurance Corporation:Org',''regulator','finance'],['United States Department of the Treasury:Org','bailout,'Silicon Valley Bank:Org'],['Federal Reserve:Org',''bailout,'Silicon Valley Bank:Org'],['Federal Deposit Insurance Corporation:Org',''bailout,'Silicon Valley Bank:Org']]
+Explanation: Three financial regulatory agencies from United State have unveiled a bailout plan after Silicon Valley Bank's collapse.<s>
+
+https://www.theguardian.com/business/2023/jul/06/uk-banks-meets-finance-regulator-as-anger-grows-over-savings-rates
+TEXT: FCA tells NatWest, Lloyds, HSBC and Barclays to act more quickly to support consumers after profiteering claims.
+Relations: [['FCA:Org','regulator','finance'],['FCA:Org','warns','NatWest:Org'],['FCA:Org','warns','Lloyds:Org'],['FCA:Org','warns','HSBC:Org'],['FCA:Org','warns','Barclays:Org']]
+Explanation: FCA, a financial regulator from UK, warned several banks to react faster in cases of profiteering.<s>
+
+https://www.theguardian.com/business/2023/may/31/ofgem-investigation-drax-compliance-biomass-renewable-energy-subsidy-scheme
+TEXT: The energy regulator, Ofgem, said it would investigate whether the owner of Britain’s biggest power plant, in North Yorkshire, was in breach of the reporting rules required for its renewable energy subsidy scheme.
+Relations: [['Ofgem:Org','regulator','UK energy'],['Ofgem:Org','investigates','North Yorkshire power plant:Org'],['North Yorkshire power plant:Org','breach','reporting rules']]
+Explanation: Ofgen, UK's energy regulator, will investigate North Yorkshire power plant reporting rules breach.<s>
+
+opposition
+https://www.theguardian.com/us-news/2021/oct/01/apple-amazon-microsoft-disney-lobby-groups-climate-bill-analysis
+TEXT: Some of America’s most prominent companies, including Apple, Amazon, Microsoft and Disney, are backing business groups that are fighting landmark climate legislation, despite their own promises to combat the climate crisis, a new analysis has found.
+Relations: [['Apple:Org','opposes','landmark climate legislation'],['Amazon:Org','opposes','landmark climate legislation'],['Microsoft:Org','opposes','landmark climate legislation'],['Disney:Org','opposes','landmark climate legislation'],['Apple:Org','supports','combat the climate crisis'],['Amazon:Org',supports','combat the climate crisis'],['Microsoft:Org',supports','combat the climate crisis'],['Disney:Org',supports','combat the climate crisis']]
+Explanation: Organizations like Apple, Amazon, Microsoft, and Disney promise to combat the climate crisis, but also back groups that oppose legislation that would help this fight.<s>
+
+https://www.theguardian.com/commentisfree/2022/jun/26/the-guardian-view-on-overturning-roe-v-wade-anti-abortionists-reign-supreme
+TEXT: Even before the dramatic leak of Justice Samuel Alito’s draft opinion last month, it was widely predicted that the US supreme court would grab the opportunity presented by the Dobbs v Jackson Women’s Health Organization case to rescind the decision made in 1973 in Roe v Wade.
+Relations: [['Justice Samuel Alito:Per','author','Alito draft opinion'],['Justice Samuel Alito:Per','opposition','Roe v. Wade:Event'],['U.S. Supreme Court:Org','overrule','Roe v. Wade:Event'],['Dobbs v Jackson Women’s Health Organization:Event','rescind','Roe v Wade:Event']]
+Explanation: Justice Samuel Alito's opinion draft predicted that U.S Supreme Court would overrule Roe v Wade decision from 1973.<s> 
+
+https://www.theguardian.com/world/2023/jun/26/far-right-afd-wins-local-election-watershed-moment-german-politics
+TEXT: The far-right Alternative für Deutschland has won a district council election in Germany for the first time, in what is being referred to as a watershed moment in the country’s politics.
+Relations: [['Alternative für Deutschland:Org','opposes','left-wing policies'],['Alternative für Deutschland:Org','won','district council in Germany']]
+Explanation: Alternative für Deutschland is a right-wing party, therefore its win in a district council election in Germany is not well seen in German politics.<s>
+
+https://www.theguardian.com/environment/2023/jun/14/eus-biodiversity-law-under-threat-from-centre-right-meps
+TEXT: The EPP, the European parliament’s largest group, says it supports climate goals but objects to ‘bad proposal’.
+Relations: [['EPP:Org','opposess','bad climate proposal'],['EPP:Org','supports','climate goals']]
+Explanation: EPP supports climate goals, but opposes a bad proposal on the same topic.<s>
+
+
+LOC
+country
+https://www.worldatlas.com/geography/the-10-newest-countries-in-the-world.html
+TEXT: Formally referred to as the Republic of South Sudan, this landlocked East-Central African nation gained independence from the Republic of the Sudan on July 9, 2011, after several years of conflict between the two countries.
+Relations: [['Republic of South Sudan:Loc','independent','Republic of Sudan:Loc']]
+Explanation: The Republic of South Sudan separated and gained independence from the Republic of Sudan in 2011.<s>
+
+https://www.nytimes.com/2023/05/03/magazine/aleksandar-vucic-veljko-belivuk-serbia.html
+TEXT: It was a shocking presentation, even in a country like Serbia, where many adults have painful memories of the Yugoslav wars of the 1990s and their atrocities.
+Relations: [['Serbia:Loc','instance of','country'],['Yugoslav wars:Event','location','Serbia:Loc']]
+Explanation: A presentation made by the president of Serbia in March 2021 was shocking even to Serbian adults used to the violence of the Yugoslav wars of the 1990s.<s>
+
+located in
+https://www.thetravel.com/what-to-know-about-frying-pan-lake-in-new-zealand/
+TEXT: New Zealand's Frying Pan Lake is the largest hot spring in the world and part of a geothermal & volcanic wonderland landscape.
+Relations: [['Frying Pan Lake:Loc','located in','New Zealand:Loc']]
+Explanation: The Frying Pan Lake situated in New Zealand is the largest hot spring in the world.<s>  
+
+https://www.goodhousekeeping.com/uk/lifestyle/travel/a39913836/dolomites-tour/
+The magnificent Dolomite Mountains are in a sensationally scenic part of northern Italy, where you can soak in lake views, enjoy invigorating walks and sample wine from local vineyards.
+Relations: [['Dolomite Mountains:Loc','located in','Italy:Loc']]
+Explanation: Dolomite Mountains are situated in a the northern part of Italy, therefore they are located in Italy.<s>
+
+https://www.romania-insider.com/places-romania-colors-autumn
+TEXT: Lacul Rosu (the Red Lake) is a natural lake that was formed in 1837 when a landslide blocked the Bicaz Valley
+Relations: [['Lacul Rosu (the Red Lake):Loc','located in','Bicaz Valley:Loc'],['Lacul Rosu (the Red Lake):Loc','located in','Romania:Loc']]
+Explanation: Lacul Rosu (the Red Lake) is located in the Bicaz Valley, which itself is located in Romania, therefore Lacul Rosu is also located in Romania.<s>
+
+jurisdiction
+https://www.theguardian.com/public-leaders-network/blog/2011/oct/19/why-civil-service-needs-ceo
+TEXT: The recent departure of the cabinet secretary, Sir Gus O'Donnell, has led to much debate and hand-wringing throughout Whitehall and will be watched carefully by every jurisdiction with Westminster-style models of government.
+Relations: [['Sir Gus O'Donnell:Per','position','cabinet secretary'],['Whitehall:Org','influence','every jurisdiction with Westminster-style models of government']]
+Explanation: Whitehall jurisdiction is limited to the UK decision-making process, but it tends to influence other jurisdictions.<s>
+
+https://time.com/6273694/ai-regulation-europe/
+TEXT: European lawmakers are putting their finishing touches on a set of wide-ranging rules designed to govern the use of artificial intelligence that, if passed, would make the E.U. the first major jurisdiction outside of China to pass targeted AI regulation. 
+Relations: [['EU:Loc','jurisdiction','AI regulation'],['China:Loc','jurisdiction','AI regulation']]
+Explanation: EU would be another major jurisdiction, after China, that would have passed AI regulation if the EU's AI Act is passed.<s>
+
+https://www.ejiltalk.org/the-european-courts-admissibility-decision-in-ukraine-and-the-netherlands-v-russia-the-good-the-bad-and-the-ugly-part-ii/
+TEXT: In particular, the conclusion that Russia controlled the separatist areas of Eastern Ukraine from 2014 up to the oral hearing in the case in 2022 and (as the Court will inevitably find) to this day is legally and factually unimpeachable.
+Relations: [['Russia:Loc','jurisdiction','Eastern Ukraine']]
+Explanation: Russia's jurisdiction extends over Eastern Ukraine since 2014 and it is unimpeachable.<s>
+
+https://www.france24.com/en/france/20230512-top-court-upholds-france-s-universal-jurisdiction-over-crimes-committed-in-syria
+TEXT: France's highest court Friday ruled that the country could try foreign suspects under the universal jurisdiction principle, greenlighting inquiries into two Syrians accused of war crimes and crimes against humanity.
+Relations: [['France:Loc','jurisdiction','universal jurisdiction'],['universal jurisdiction','applies','war crimes and crimes against humanity']]
+Explanation: France could apply universal jurisdiction for war crimes and war crimes against humanity.<s>
+
+operator
+https://balkangreenenergynews.com/bulgaria-establishes-state-owned-green-energy-company/
+TEXT: As part of such efforts on the national level, a new company was recently established within state-owned Bulgarian Energy Holding – BEH. 
+Relations: [['Bulgaria:Loc','operator','Bulgarian Energy Holding - BEN:Org']]
+Explanation: Bulgaria founded a new company within the holding it operates: Bulgarian Energy Holding - BEH.<s>
+
+https://www.offshore-technology.com/news/transgaz-gas-pipeline-black/
+TEXT: Romania’s gas pipeline operator Transgaz is planning to build a €500m pipeline to bring natural gas from the Neptun Deep block in the Black Sea to the national grid.
+Relations: [['Romania:Loc','operator','Transgaz'],['Transgaz:Org','industry','gas pipeline'],['Transgaz:Org','construction','Transgaz pipleine'],['Transgaz pipeline:Loc','start','Neptun Deep, Black Sea:Loc'],['Transgaz pipeline:Loc','end','Romania:Loc']]
+Explanation: Transgaz, Romania's gas pipeline operator, plans to transport the gas from the Neptun Deep block from the Black Sea to Romania through a €500m pipeline.<s>
+
+https://www.nytimes.com/2022/08/09/business/russian-oil-druzhba-pipeline.html
+TEXT: Transneft, the state-owned operator of the Russian portion of the pipeline, pays transit fees to its Ukrainian counterpart, UkrTransNafta, for the oil to pass through that country. 
+Relations: [['Russia:Loc','owns','Transneft:Org'],['Transneft:Org','operator','gas pipeline'],['Ukraine:Loc','owns','UkrTransNafta:Org'],['Transneft:Org','operator','gas pipeline'],['Transneft:Org','pays','UkrTransNafta:Org']]
+Explanation: Russian state-owned pipeline operator Transfneft pays the Ukrainian state-owned pipeline operator to allow its gas to pass through the country.<s>
+
+part of
+https://cepa.org/article/romania-gets-moldova-and-the-eu-doesnt/
+TEXT: The Romanian head of state took the opportunity to call on the European Union (EU) to adopt a new sanctions regime against pro-Russian entities and individuals seeking to derail Moldova’s path toward EU accession.
+Relations: [['Romanian head of state:Per','requests sanctions against','pro-Russian entities seeking to derail Moldova's path towards EU'],['Romania','part of','EU'],['Moldova','path towards','EU']]
+Explanation: Romania considers Moldova a brother state since they have a shared history, and being part of EU asks through his President for sactions agains Russian entities seeking to derail Moldova's acceptance into EU.<s>
+
+https://www.theguardian.com/world/2023/may/04/belize-king-charles-coronation-colonialism
+TEXT: Belize, a country of 400,000 citizens, is geographically located in Central America but a part of the English-speaking Caribbean.
+Relations: [['Belize:Loc','population','400,000'],['Belize:Loc','situated','Central America'],['Belize:Loc','part of','English-speaking Caribbean']]
+Explanation: Belize is a part of English-speaking Carribean despite being located in Central America.<s>
+
+opposition
+https://www.nytimes.com/2023/07/05/us/politics/biden-sweden-prime-minister-nato-turkey.html
+TEXT: President Biden backs the plan for Sweden to join the military alliance, but movement has been stalled by Turkey’s opposition.
+Relations: [['President Biden:Per','supports','plan for Sweden to join the military alliance'],['Turkey:Loc','opposes','Sweden joining NATO']]
+Explanation: Turkey opposes Sweden's plan to join NATO that is supported by President Joe Biden.<s>
+
+https://www.nytimes.com/2023/03/23/business/china-forced-sale-tiktok.html
+TEXT: China’s commerce ministry publicly rebuked the Biden administration’s efforts to push TikTok’s Chinese ownership to sell the app or face a possible ban in the United States.
+Relations: [['China:Loc','opposes','TikTok sale'],['Biden administration:Org','supports','TikTok sale'],['Biden administration:Org','supports','TikTok ban']]
+Explanation: Biden administration wanted to force China to sell TikTok or face a ban in the United States.<s>
+
+https://www.theguardian.com/world/2022/jun/02/nicaragua-cancels-non-governmental-organizations-civil-society
+TEXT: Nicaragua’s Sandinista-controlled congress has cancelled nearly 200 non-governmental organizations, ranging from a local equestrian center to the 94-year-old Nicaraguan Academy of Letters, in what critics say is Daniel Ortega’s attempt to eliminate the country’s civil society.
+Relations: [['Nicaragua:Loc','opposes','NGOs'],['Nicaragua:Loc','opposes','Nicaraguan Academy of Letters']]
+Explanation: Nicaraguan congress cancelled nearly 200 organizations in a bid to destroy the civil movement.<s>
+
+https://www.theguardian.com/world/2023/may/04/belize-king-charles-coronation-colonialism
+TEXT: Belize is the only Commonwealth realm King Charles has never visited.
+Relations: [['Belize:Loc','part of','Commonwealth'],['King Charles:Per','never visited','Belize:Loc']]
+Explanation: King Charles has never visited Belize despite it being part of the Commonwealth.<s>
+
+
+EVENT
+location, organizer
+https://theconversation.com/leading-an-online-social-movement-requires-offline-work-132618
+TEXT: The organizers of Missing and Murdered Indigenous Women (MMIW) events in Calgary were already embedded in local Indigenous communities and had ties to other activists through past work with Idle No More or Women’s Marches.
+Relations: [['Missing and Murdered Indigenous Women (MMIW):Event','location','Calgary'],['Missing and Murdered Indigenous Women (MMIW):Event','related to','Idle No More:Event'],['Missing and Murdered Indigenous Women (MMIW):Event','related to','Women's Marches:Event]
+Explanation: Organizers of Missing and Murdered Indigenous Women (MMIW) have also helped organize Idle No More or Women’s Marches.<s>
+
+https://www.theguardian.com/music/2023/apr/12/freak-weather-affecting-music-festivals-standon-calling
+TEXT: Events such as Northamptonshire’s Shambala and Amsterdam’s DGTL are leading the way, with organisations like A Greener Future, Julie’s Bicycle and Vision 2025 sharing sector knowledge and helping drive standards. 
+Relations: [['Shambhala:Event','located in','Northamptonshire:Loc'],['DGTL:Event','located in','Amsterdam:Loc'],['A Greener Future:Org','activity','event organizer'],['Julie's Bycicle:Org','activity','event organizer'],['Vision 2025:Org','activity','event organizer']]
+Explanation: Organizations like A Greener Future, Julie's Bycicle, and Vision 2025 are leading the way in organising sustainable events like Northamptonshire’s Shambala and Amsterdam’s DGTL.<s>
+
+
+main subject, part of
+https://www.unwomen.org/en/news-stories/in-focus/2022/11/in-focus-16-days-of-activism-against-gender-based-violence
+TEXT: The 16 Days of Activism against Gender-Based Violence is an annual campaign that begins on 25 November, the International Day for the Elimination of Violence against Women, and runs through International Human Rights Day on 10 December.
+Relations: [['16 Days of Activism against Gender-Based Violence:Event','start time','November 25'],['16 Days of Activism against Gender-Based Violence:Event','start time','International Day for the Elimination of Violence against Women:Event'],['16 Days of Activism against Gender-Based Violence:Event','end time','International Human Rights Day:Event'],['16 Days of Activism against Gender-Based Violence:Event','end time','December 10']]
+Explanation: An annual campaign called 16 Days of Activism against Gender-Based Violence runs between November 25 and December 10, two dates that represent the International Day for the Elimination of Violence and the International Human Rights Day.<s>
+
+https://www.theguardian.com/australia-news/2023/may/31/moroccan-officials-accused-of-intimidation-after-fracas-at-african-unity-event-in-canberra
+TEXT: The representative Kamal Fadel, who had been formally invited to the Albert Hall event on Thursday evening, was initially stopped from entering by Moroccan diplomats.
+Relations: [['Kamal Fadel:Per','opposed by','Moroccan diplomats'],['Royal Albert Hall:Loc','start date','Thursday evening']]
+Explanation: A representative of Sahrawi population of Western Sahara, Kamal Fadel, was stopped from entering a Royal Albert Hall event by Moroccan diplomats.<s>
+
+
+https://www.nytimes.com/2023/01/19/us/abortion-roe-v-wade-50th-anniversary.html
+TEXT: The March for Life, held each year for a half-century, should be a celebration now that Roe v. Wade has fallen.
+Relations: [['March for Life:Event','celebration','Roe v. Wade:Event'],['Roe v. Wade:Event','reversal','Roe v. Wade overturned']]
+Explanation: March for Life should gain a new status considering that the pro-life case Roe v. Wade was overturned in 2022.<s>
+
+
+part of
+https://www.portsmouth.co.uk/whats-on/things-to-do/race-for-life-portsmouth-the-date-of-the-southsea-event-road-closures-route-cost-parking-information-and-key-information-for-those-taking-part-and-spectating-4200049
+TEXT: Saturday, July 1 will see nearly 2,500 people taking part in the Pretty Muddy events, followed by almost 2,000 taking part in three different distance events to raise money for Cancer Research UK. 
+Relations: [['Pretty Muddy:Event','start date','July 1'],['Pretty Muddy events:Event','charity','Cancer Research UK:Org']]
+Explanation: Pretty Muddy events were part from an effort to raise money for Cancer Research UK.<s>
+
+https://www.theguardian.com/environment/2023/feb/02/atlanta-shooting-manuel-teran-crackdown-environmental-defenders
+TEXT: Steven Donziger, an attorney who was embroiled in a long-running legal battle with Chevron on behalf of Indigenous people in Ecuador, said the payments are part of a “dangerous trend” of fossil fuel influence over the functions of government and the law.
+Relations: [['Steven Donziger:Per','attorney','long-running legal battle with Chevron on behalf of Indigenous people in Ecuador:Event'],['payments','part of','fossil fuel influence over the functions of government and the law']]
+Explanation: The lawyer of Indigenous people in Ecuador in trial against Chevron warns about payments being a dangerous trend on the long-run.<s>
+
+
+point of time
+https://meduza.io/en/feature/2023/06/23/wagner-s-march-of-justice
+TEXt: Wagner Group founder Yevgeny Prigozhin released a series of announcements on June 23, accusing Russia’s Defense Ministry of intentionally striking Wagner positions.
+Relations: [['Yevgeny Prigozhin:Per','founder','Wagner Group:Org'],['Yevgeny Prigozhin:Per','opposes','Russia's Defense Ministry:Org'],['Yevgeny Prigozhin:Per','announces','June 23:Event']]
+Explanation: Yevgeny Prigozhin called a 'March for Justice' against Russia's Defense Ministry on June 23, 2023.<s>
+
+
+part of
+https://www.livemint.com/news/world/russia-live-updates-wagner-chief-russian-military-leadership-putin-ukraine-11687571201382.html
+TEXT: Prigozhin said his troops were on a “march for justice" and at one point they were reported headed toward Moscow. 
+Relations: [['Prigozhin:PER','leads','March for Justice:Event'],['Prigozhin troops:Org','part of','March for Justice:Event']]
+Explanation: Yevgeny Prigozhin led a 'March for Justice' on June 23, 2023 towards Moscow due to attempts to disband PMC Wagner.<s>

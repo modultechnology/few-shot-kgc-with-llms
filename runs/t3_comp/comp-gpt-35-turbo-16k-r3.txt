@@ -1,0 +1,197 @@
+Relations: [['Yoshua Bengio:Per', 'jurisdiction', 'Canada:Loc'], ['Canada:Loc', 'location', 'right path'], ['Artificial Intelligence:Other', 'field of work', 'Canada:Loc']]
+Explanation: Yoshua Bengio, an artificial intelligence pioneer, believes that the regulation in Canada is moving in the right direction, but at a slow pace. Therefore, he comments on the progress of regulation in Canada.<s>
+
+Relations: [['Anthropic:Org', 'formed by', 'Dario Amodei:Per'], ['Dario Amodei:Per', 'left', 'OpenAI:Org'], ['OpenAI:Org', 'field of work', 'research']]
+Explanation: Anthropic, an organization, was formed when a group of researchers led by Dario Amodei, left OpenAI due to a disagreement over the company's direction.<s>
+
+Relations: [['Tel Drum:Org', 'related to', 'criminal group'], ['Laura Codruta Kovesi:Per', 'head of', 'EU Public Prosecutor’s Office:Org']]
+Explanation: The current indictment is related to Tel Drum, a company allegedly used by a criminal group, while the case falls under the jurisdiction of the EU Public Prosecutor’s Office headed by Laura Codruta Kovesi.<s>
+
+Relations: [['Tom Herman:Per', 'position', 'co-offensive coordinator and quarterbacks coach'], ['Ohio State:Org', 'operator', 'football program']]
+Explanation: Tom Herman holds the position of co-offensive coordinator and quarterbacks coach for Ohio State's football program.<s>
+
+Relations: [['Bridget Phillipson:Per', 'position', 'senior member of Keir Starmer’s team'], ['Phillips:Per', 'racist', 'false']]
+Explanation: Bridget Phillipson, a senior member of Keir Starmer's team, states that any complaint against a Labour MP, including Phillips, should be looked into, but she does not believe Phillips is racist.<s>
+
+Relations: [['Neal Lawson:Per', 'position', 'head of Compass:Org']]
+Explanation: There are moves to discipline Neal Lawson, who is the head of Compass pressure group, and they are considered a 'disgrace'.<s>
+
+Relations: [['Shou Zi Chew:Per', 'play down', 'concerns over data and privacy']]
+Explanation: Shou Zi Chew attempts to decrease concerns over data and privacy as lawmakers call for a ban on Chinese-owned app.<s>
+
+Relations: [['Aidan Gomez:Per', 'co-founder and CEO', 'Cohere AI:Org']]
+Explanation: Aidan Gomez is the co-founder and CEO of Cohere AI and speaks about fears around the technology.<s>
+
+Relations: [['Russia:Loc', 'jurisdiction', 'Russia:Loc'], ['Russia:Loc', 'controls', 'Eastern Ukraine:Loc']]
+Explanation: The conclusion is made that Russia has jurisdiction over the separatist areas of Eastern Ukraine from 2014 up to the oral hearing in 2022 and it continues to control Eastern Ukraine.<s>
+
+Relations: [['Argentina:Loc', 'jurisdiction', 'Myanmar:Loc']]
+Explanation: Argentina's justice system will investigate allegations of war crimes committed by the Myanmar military against the Rohingya minority under a court ruling.<s>
+
+Relations: [['Organization for Economic Co-operation and Development:Org', 'objective', 'global tax reform plan']]
+Explanation: 136 countries and jurisdictions have agreed to join an accord to impose a two-pillar global tax reform plan presented by the Organization for Economic Co-operation and Development.<s>
+
+Relations: [['United States:Loc', 'opposes', 'UNESCO:Org']]
+Explanation: The US State Department decides to recommit to UNESCO, despite the opposition.<s>
+
+Relations: [['Ministry of Energy and Mines:Org', 'addressed to', 'Fernando Santos Alvite:Per'], ['Organization of Petroleum Exporting Countries:Org', 'operator', 'International:Org']]
+Explanation: The Secretary General of OPEC, Haitham Al Ghais, invited Ecuador to form part of the International once again through a letter addressed to the Minister of Energy and Mines, Fernando Santos Alvite.<s>
+
+Relations: [["Africans Rising:Org", "member of", "African Liberation Day:Other"]]
+Explanation: Africans Rising, a pan-African movement of individuals, organizations, and movements, aims to fight for a peaceful, just, and united continent by reclaiming the meaning of African Liberation Day.<s>
+
+Relations: [['United Nations Food and Agricultural Organisation:Org', 'jurisdiction', 'Nigerian government:Org']]
+Explanation: The United Nations Food and Agricultural Organisation calls for decisive action by the Nigerian government to ensure sustainable and inclusive food system transformation due to the projected increase in population.<s>
+
+Relations: [['Bernard Looney:Per', 'position', 'chief executive'], ['BP:Org', 'objective', 'net zero company']]
+Explanation: Bernard Looney, the chief executive of BP, announced plans to make BP a net zero company by 2050.<s>
+
+Relations: [['Intrepid:Org', 'operator', 'carbon-neutral tour'], ['Intrepid:Org', 'donated to', 'Nepal:Loc']]
+Explanation: Intrepid is a carbon-neutral tour operator that has invested in grassroots projects globally and donated profits to Nepal to help with post-earthquake reconstruction efforts.<s>
+
+Relations: [['Australian Energy Market Operator:Org', 'location', 'Australia:Loc']]
+Explanation: The Australian Energy Market Operator warns of potential electricity supply and demand imbalances in Australia over the next decade.<s>
+
+Relations: [['Island Aviation:Org', 'location', 'New Zealand:Loc'], ['Auckland Seaplanes:Org', 'operator', 'Island Aviation:Org']]
+Explanation: Island Aviation, which includes Auckland Seaplanes and Waiheke Wings, became New Zealand's first air operator to achieve carboNZero status.<s>
+
+Relations: [['Silicon Valley Bank:Org', 'operator', 'market'], ['Treasury:Org', 'location', 'United States:Loc']]
+Explanation: The treasury, Federal Reserve, and Federal Deposit Insurance Corporation unveil a plan to contain fallout from Silicon Valley Bank's collapse, ensuring that taxpayers do not bear the costs.<s>
+
+Relations: [['FCA:Org', 'forces action on', 'NatWest:Org'], ['FCA:Org', 'forces action on', 'Lloyds:Org'], ['FCA:Org', 'forces action on', 'HSBC:Org'], ['FCA:Org', 'forces action on', 'Barclays:Org']]
+Explanation: The FCA tells NatWest, Lloyds, HSBC, and Barclays to act more quickly to support consumers after claims of profiteering.<s>
+
+Relations: [['Ofgem:Org', 'investigates', 'owner of Britain’s biggest power plant']]
+Explanation: Ofgem announces an investigation into whether the owner of Britain's biggest power plant is in breach of reporting rules for its renewable energy subsidy scheme.<s>
+
+Relations: [["Apple:Org", "opposes", "climate legislation"], ["Amazon:Org", "opposes", "climate legislation"], ["Microsoft:Org", "opposes", "climate legislation"], ["Disney:Org", "opposes", "climate legislation"]]
+Explanation: Prominent companies like Apple, Amazon, Microsoft, and Disney are backing business groups that are fighting landmark climate legislation, despite their own promises to combat the climate crisis.<s>
+
+Relations: [['Alternative für Deutschland:Org', 'position', 'far-right']]
+Explanation: The far-right Alternative für Deutschland wins a district council election in Germany for the first time, marking a watershed moment in the country's politics.<s>
+
+Relations: [['European People’s Party:Org', 'supports', 'climate goals'], ['European People’s Party:Org', 'objects to', 'bad proposal']]
+Explanation: The European People's Party supports climate goals but objects to a "bad proposal".<s>
+
+Relations: [['Republic of South Sudan:Org', 'located in', 'East-Central African:Loc'], ['Republic of the Sudan:Org', 'opposes', 'Republic of South Sudan:Org']]
+Explanation: The Republic of South Sudan is located in East-Central Africa and gained independence from the Republic of the Sudan on July 9, 2011, after a conflict between the two countries.<s>
+
+Relations: [['Serbia:Loc', 'location', 'Land of Atrocities:Other']]
+Explanation: The presentation was shocking, even in a country like Serbia, where many adults have painful memories of the Yugoslav wars of the 1990s and their atrocities.<s>
+
+Relations: [['Dolomite Mountains:Loc', 'location', 'northern Italy:Loc']]
+Explanation: The Dolomite Mountains are located in a scenic part of northern Italy.<s>
+
+Relations: [['Lacul Rosu:Loc', 'located in', 'Romania:Loc'], ['Lacul Rosu:Loc', 'part of', 'Bicaz Valley:Loc']]
+Explanation: Lacul Rosu, also known as the Red Lake, is a natural lake that was formed when a landslide blocked the Bicaz Valley.<s>
+
+Relations: [['Sir Gus O'Donnell:Per', 'position', 'cabinet secretary'], ['Whitehall:Loc', 'located in', 'Westminster:Loc']]
+Explanation: The departure of Sir Gus O'Donnell, the cabinet secretary, has led to much debate throughout Whitehall and will be watched by every jurisdiction with Westminster-style models of government.<s>
+
+Relations: [['E.U.:Loc', 'jurisdiction', 'artificial intelligence'], ['E.U.:Loc', 'jurisdiction', 'China:Loc']]
+Explanation: European lawmakers are finalizing a set of wide-ranging rules to govern the use of artificial intelligence, making the EU the first major jurisdiction, outside of China, to pass targeted AI regulation.<s>
+
+Relations: [['France:Loc', 'jurisdiction', 'foreign suspects']]
+Explanation: France's highest court ruled that the country can try foreign suspects under the universal jurisdiction principle, enabling inquiries into two Syrians accused of war crimes and crimes against humanity.<s>
+
+Relations: [['Bulgarian Energy Holding:Org', 'location', 'Bulgaria:Loc']]
+Explanation: A new company was established within state-owned Bulgarian Energy Holding called BEH, as part of efforts on the national level.<s>
+
+Relations: [['Transgaz:Org', 'operator', 'gas pipeline'], ['Black Sea:Loc', 'located in', 'Neptun Deep:Loc']]
+Explanation: Romania's gas pipeline operator, Transgaz, plans to build a €500m pipeline to bring natural gas from the Neptun Deep block in the Black Sea to the national grid.<s>
+
+Relations: [['Transneft:Org', 'partners with', 'UkrTransNafta:Org']]
+Explanation: Transneft, the state-owned operator of the Russian portion of the pipeline, pays transit fees to UkrTransNafta, its Ukrainian counterpart, for the oil to pass through Ukraine.<s>
+
+Relations: [['Romanian:Loc', 'calls on', 'European Union:Org'], ['European Union:Org', 'jurisdiction', 'Moldova:Loc']]
+Explanation: The Romanian head of state calls on the European Union to adopt a new sanctions regime against pro-Russian entities and individuals seeking to derail Moldova's path toward EU accession.<s>
+
+Relations: [['Belize:Loc', 'location', 'Central America:Loc'], ['Belize:Loc', 'member of', 'English-speaking Caribbean:Loc']]
+Explanation: Belize, a country located in Central America, is also considered part of the English-speaking Caribbean.<s>
+
+Relations: [['President Biden:Per', 'supports', 'Sweden:Loc'], ['President Biden:Per', 'opposes', "military alliance']]
+Explanation: President Biden supports the plan for Sweden to join the military alliance, but the movement has been stalled due to Turkey's opposition.<s>
+
+Relations: [['China:Loc', 'opposes', 'TikTok:Other'], ['Biden administration:Org', 'forces', 'Chinese ownership to sell or face ban']]
+Explanation: China's commerce ministry openly rebukes the Biden administration's efforts to push TikTok's Chinese ownership to sell the app or face a possible ban in the United States.<s>
+
+Relations: [['Sandinista-controlled congress:Org', 'cancels', 'nearly 200 non-governmental organizations'], ['Daniel Ortega:Per', 'controls', "Nicaragua's civil society"]]
+Explanation: Nicaragua's Sandinista-controlled congress cancels nearly 200 non-governmental organizations, with critics claiming that Daniel Ortega is attempting to eliminate the country's civil society.<s>
+
+Relations: [['Belize:Loc', 'location', 'Commonwealth:Other'], ['King Charles:Per', 'has never visited', 'Belize:Loc']]
+Explanation: Belize is the only Commonwealth realm that King Charles has never visited.<s>
+
+Relations: [['MMIW:Org', 'organizer', 'local Indigenous communities']]
+Explanation: The organizers of Missing and Murdered Indigenous Women events in Calgary are embedded in local Indigenous communities and have ties to other activists.<s>
+
+Relations: [['Northamptonshire:Loc', 'location', 'Shambala:Event'], ['Amsterdam:Loc', 'location', 'DGTL:Event'], ['A Greener Future:Org', 'works together with', 'Julie’s Bicycle:Org'], ['Julie’s Bicycle:Org', 'works together with', 'Vision 2025:Org']]
+Explanation: Events like Shambala in Northamptonshire and DGTL in Amsterdam are leading the way in terms of sustainability. Organizations like A Greener Future, Julie’s Bicycle, and Vision 2025 share knowledge and help drive standards in the sector.<s>
+
+Relations: [['International Day for the Elimination of Violence against Women:Event', 'related to', '16 Days of Activism against Gender-Based Violence:Event']]
+Explanation: The campaign known as the 16 Days of Activism against Gender-Based Violence is an annual campaign that begins on the International Day for the Elimination of Violence against Women and runs through International Human Rights Day.<s>
+
+Relations: [['Albert Hall:Event', 'location', 'UK:Loc'], ['Kamal Fadel:Per', 'invited to', "Albert Hall:Event"]]
+Explanation: The representative Kamal Fadel was invited to the Albert Hall event, but was initially stopped from entering by Moroccan diplomats.<s>
+
+Relations: [['Supreme Court:Org', 'celebrates', 'fall of Roe v Wade:Event']]
+Explanation: The March for Life, which has been held annually for a half-century, is now a celebration since the Roe v. Wade decision has fallen.<s>
+
+Relations: [['Saturday, July 1:Event', 'date', 'Pretty Muddy events:Event'], ['Pretty Muddy events:Event', 'raises funds for', 'Cancer Research UK:Org']]
+Explanation: On Saturday, July 1, nearly 2,500 people will participate in the Pretty Muddy events, followed by almost 2,000 participants in three different distance events to raise money for Cancer Research UK.<s>
+
+Relations: [["Steven Donziger:Per", "accuses", "fossil fuel influence over the functions of government and the law"]]
+Explanation: Steven Donziger, an attorney who represented Indigenous people in Ecuador, accuses fossil fuel companies of influencing government and the law.<s>
+
+Relations: [['Yevgeny Prigozhin:Per', 'founder', 'Wagner Group:Org'], ['Wagner Group:Org', 'on a', 'march for justice']]
+Explanation: Yevgeny Prigozhin, the founder of Wagner Group, released announcements accusing Russia's Defense Ministry of intentionally striking Wagner positions, claiming that his troops are on a "march for justice".<s>
+
+Relations: [['European Union:Org', 'jurisdiction', 'Bulgaria:Loc']]
+Explanation: As part of efforts on the national level, a new company was established within state-owned Bulgarian Energy Holding called BEH to comply with the jurisdiction of the European Union.<s>
+
+Relations: [['Transgaz:Org', 'operator', '€500m pipeline'], ['Neptun Deep:Loc', 'location', 'Black Sea:Loc']]
+Explanation: Romania's gas pipeline operator, Transgaz, plans to build a €500m pipeline to bring natural gas from the Neptun Deep block in the Black Sea to the national grid.<s>
+
+Relations: [['Transneft:Org', 'partner of', 'UkrTransNafta:Org']]
+Explanation: Transneft, a state-owned operator of the Russian portion of the pipeline, partners with UkrTransNafta, its Ukrainian counterpart, to pass oil through Ukraine.<s>
+
+Relations: [['Romanian head of state:Per', 'calls on', 'European Union:Org'], ['European Union:Org', 'opposes', 'pro-Russian entities and individuals']]
+Explanation: The Romanian head of state calls on the European Union to adopt a new sanctions regime against pro-Russian entities and individuals seeking to derail Moldova's path toward EU accession.<s>
+
+Relations: [['Belize:Loc', 'located in', 'Central America:Loc'], ['Belize:Loc', 'part of', 'English-speaking Caribbean:Loc']]
+Explanation: Belize is geographically located in Central America but is considered part of the English-speaking Caribbean.<s>
+
+Relations: [['President Biden:Per', 'supports', 'Sweden:Loc'], ['President Biden:Per', 'opposes', 'movement']]
+Explanation: President Biden backs the plan for Sweden to join the military alliance, but the movement has been stalled by Turkey's opposition.<s>
+
+Relations: [['China:Loc', 'opposes', 'Biden administration:Org']]
+Explanation: China's commerce ministry publicly rebukes the Biden administration's efforts to push TikTok's Chinese ownership to sell the app or face a ban in the United States.<s>
+
+Relations: [['Nicaragua:Loc', 'cancels', 'nearly 200 non-governmental organizations'], ['Daniel Ortega:Per', 'attempts', 'eliminate Nicaragua’s civil society']]
+Explanation: Nicaragua's Sandinista-controlled congress cancels nearly 200 non-governmental organizations, and critics claim that Daniel Ortega is attempting to eliminate Nicaragua's civil society.<s>
+
+Relations: [['Belize:Loc', 'location', 'Commonwealth:Other'], ['King Charles:Per', 'has never visited', 'Belize:Loc']]
+Explanation: Belize is the only Commonwealth realm that King Charles has never visited.<s>
+
+Relations: [['MMIW:Org', 'organizer', 'local Indigenous communities']]
+Explanation: The organizers of the Missing and Murdered Indigenous Women (MMIW) events in Calgary have ties to other activists through past work with Idle No More or Women's Marches and are embedded in local Indigenous communities.<s>
+
+Relations: [['Northamptonshire:Loc', 'location', 'Shambala:Event'], ['Amsterdam:Loc', 'location', 'DGTL:Event'], ['AGreener Future:Org', 'works together with', 'Julie’s Bicycle:Org'], ['Julie’s Bicycle:Org', 'works together with', 'Vision 2025:Org']]
+Explanation: Events like Shambala in Northamptonshire and DGTL in Amsterdam are leading the way, with organizations like A Greener Future, Julie’s Bicycle, and Vision 2025 sharing sector knowledge and helping drive standards.<s>
+
+Relations: [['International Day for the Elimination of Violence against Women:Event', 'related to', '16 Days of Activism against Gender-Based Violence:Event']]
+Explanation: The International Day for the Elimination of Violence against Women on November 25th is related to the 16 Days of Activism against Gender-Based Violence campaign running through International Human Rights Day on December 10th.<s>
+
+Relations: [['Kamal Fadel:Per', 'invited to', 'Albert Hall:Event']]
+Explanation: Kamal Fadel, a representative, was formally invited to the Albert Hall event on Thursday evening but was initially stopped from entering by Moroccan diplomats.<s>
+
+Relations: [['Supreme Court:Org', 'celebrates', 'fall of Roe v. Wade:Event']]
+Explanation: The March for Life, which is held each year for a half-century, should be a celebration now that the Roe v. Wade decision has fallen.<s>
+
+Relations: [['Saturday, July 1:Event', 'date', 'Pretty Muddy events:Event'], ['Pretty Muddy events:Event', 'raises money for', 'Cancer Research UK:Org']]
+Explanation: On Saturday, July 1, nearly 2,500 people will participate in the Pretty Muddy events, and almost 2,000 will participate in three different distance events, raising money for Cancer Research UK.<s>
+
+Relations: [['Steven Donziger:Per', 'accuses', 'fossil fuel influence over government and the law']]
+Explanation: Steven Donziger, an attorney who was embroiled in a legal battle with Chevron, accuses fossil fuel companies of having undue influence over government functions and the law.<s>
+
+Relations: [['Yevgeny Prigozhin:Per', 'founder', 'Wagner Group:Org'], ['Wagner Group:Org', 'marches towards', 'Moscow:Loc']]
+Explanation: Yevgeny Prigozhin, the founder of Wagner Group, released announcements claiming that his troops were on a "march for justice", and at one point they were reported to be headed towards Moscow.<s>

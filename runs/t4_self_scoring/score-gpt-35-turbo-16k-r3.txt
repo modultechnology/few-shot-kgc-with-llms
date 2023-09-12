@@ -1,0 +1,3 @@
+The F1 score is a measure of the accuracy of relation extraction, taking into account precision and recall. To calculate the F1 score, we need to compare the relations extracted by the system with the relations provided in the gold standard. In order to do that, we need the relations extracted by the system for the given texts. However, the system only provided the explanations for the relations, not the relations themselves. 
+
+Therefore, we are unable to compute the F1 score in this case.

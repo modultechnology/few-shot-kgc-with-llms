@@ -1,0 +1,51 @@
+ Let's compare the relations extracted by me and the gold standard relations:
+
+For text 1:
+My relations: 
+[['Yoshua Bengio:Per', 'pioneer in', 'artificial intelligence:Field'], ['Yoshua Bengio:Per', 'comments on', 'regulation in Canada:Loc']]
+
+Gold relations:
+[['Yoshua Bengio:Per','field of work','A.I.'],['A.I. regulation','jurisdiction','Canada']]
+
+For text 2:
+My relations:
+[['Anthropic:Org', 'formed in', '2021:Date'], ['Dario Amodei:Per', 'leader of', 'group of researchers:Per'], ['Dario Amodei:Per', 'left', 'OpenAI:Org'], ['Dario Amodei:Per', 'disagreed with', 'OpenAI:Org']]
+
+Gold relations: 
+[['Anthropic:Org','founded','2021'],['Dario Amodei:Per','employer','Anthropic:Org'],['Dario Amodei:Per','field of work','AI'],['Dario Amodei:Per','position','researcher'],['Dario Amodei:Per', 'previously with', 'OpenAI:Org']]
+
+For text 3:
+My relations:
+[['Tel Drum:Org', 'allegedly used by', 'criminal group:Org'], ['Tel Drum:Org', 'allegedly used for', 'siphoning public funds'], ['Laura Codruta Kovesi:Per', 'head of', 'EU Public Prosecutor’s Office:Org'], ['EU Public Prosecutor’s Office:Org', 'jurisdiction over', 'case against Tel Drum:Event']]
+
+Gold relations:
+[['Tel Drum','indictment','European Union'],['EU Public Prosecutor's Office','jurisdiction','European Union's budget'],['Laura Codruta Kovesi','director','EU Public Prosecutor's Office']]
+
+For text 4: 
+My relations:
+[['Tom Herman:Per', 'coach at', 'Ohio State:Org'], ['Tom Herman:Per', 'known as', 'Mensa assistant'], ['Tom Herman:Per', 'prefers not to be known as', 'Mensa assistant']]
+
+Gold relations:
+[['Ohio State:Org','employs','Tom Herman:Per'],['Tom Herman:Per','occupation','co-offensive coordinator'],['Tom Herman:Per','occupation','quarterbacks coach'],['Tom Herman:Per','member of','Mensa:Org']]
+
+For text 5:
+My relations:
+[['Bridget Phillipson:Per', 'member of', 'Keir Starmer’s team:Org'], ['Bridget Phillipson:Per', 'response to', 'complaint against Labour MP'], ['Bridget Phillipson:Per', 'does not believe', 'Phillips is racist']]
+
+Gold relations: 
+[['Bridget Phillipson:Per','member of','Keir Starmer team:Org'],['Bridget Phillipson:Per', 'position', 'senior member'],['Bridget Phillipson:Per','comments on','complaint against MP'],['Phillips:Per','member','Labour Party:Org']]
+
+To compute F1 score:
+
+TP = 7 (number of matching relations between my extracted relations and gold relations)
+FP = 11 (number of my extracted relations not in gold relations)  
+FN = 12 (number of gold relations not extracted by me)
+
+Precision = TP / (TP + FP) = 7 / (7 + 11) = 0.389
+Recall = TP / (TP + FN) = 7 / (7 + 12) = 0.368
+
+F1 score = 2 * (Precision * Recall) / (Precision + Recall) 
+         = 2 * (0.389 * 0.368) / (0.389 + 0.368)
+         = 0.378
+
+Therefore, the F1 score when comparing my extracted relations to the gold standard relations is 0.378.

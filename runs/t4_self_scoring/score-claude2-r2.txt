@@ -1,0 +1,45 @@
+ Here is the comparison of my extracted relations versus the provided gold standard:
+
+TEXT 1:
+My relations: 2
+Gold relations: 2  
+Matched: 1
+Precision: 0.5
+Recall: 0.5
+F1: 0.5
+
+TEXT 2:  
+My relations: 5
+Gold relations: 5
+Matched: 3
+Precision: 0.6 
+Recall: 0.6
+F1: 0.6
+
+TEXT 3:
+My relations: 5 
+Gold relations: 3
+Matched: 1
+Precision: 0.2
+Recall: 0.33
+F1: 0.25
+
+TEXT 4:  
+My relations: 3
+Gold relations: 4
+Matched: 2
+Precision: 0.67
+Recall: 0.5 
+F1: 0.57
+
+TEXT 5:
+My relations: 3
+Gold relations: 4  
+Matched: 2
+Precision: 0.67
+Recall: 0.5
+F1: 0.57
+
+Overall F1 Score: 0.498
+
+In summary, my extracted relations matched 50% of the gold relations for the first text, 60% for the second, 33% for the third, 50% for the fourth, and 50% for the fifth text. This results in an overall F1 score of 0.498 compared to the gold standard. The main issues were failing to extract some key relations in Texts 3-5. I can improve by focusing on capturing all the salient entity relationships expressed in the texts.

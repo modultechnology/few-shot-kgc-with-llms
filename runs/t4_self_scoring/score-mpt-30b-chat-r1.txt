@@ -1,0 +1,1 @@
+The F1 score is 1.0, indicating perfect agreement between the gold standard and the extracted information.

@@ -1,0 +1,39 @@
+To calculate the F1 score, we first need to compute the precision and recall. Precision is the number of true positive relations divided by the sum of true positive and false positive relations, while recall is the number of true positive relations divided by the sum of true positive and false negative relations.
+
+Using the gold standard list as a reference, we will count the true positives (TP), false positives (FP), and false negatives (FN) for each text.
+
+TEXT 1:
+TP = 1 (['Yoshua Bengio:Per','field of work','A.I.'])
+FP = 2 (['Yoshua Bengio:Per', 'comments on', 'regulation in Canada:Loc'], ['Canada:Loc', 'regulation progress', 'slow'])
+FN = 1 (['A.I. regulation','jurisdiction','Canada'])
+
+TEXT 2:
+TP = 1 (['Dario Amodei:Per', 'previously with', 'OpenAI:Org'])
+FP = 3 (['Anthropic:Org', 'founded', '2021:Date'], ['Dario Amodei:Per', 'leader', 'group of researchers'], ['OpenAI:Org', 'disagreement', 'company direction'])
+FN = 4 (['Anthropic:Org','founded','2021'],['Dario Amodei:Per','employer','Anthropic:Org'],['Dario Amodei:Per','field of work','AI'],['Dario Amodei:Per','position','researcher'])
+
+TEXT 3:
+TP = 1 (['Laura Codruta Kovesi','director','EU Public Prosecutor's Office'])
+FP = 4 (['Tel Drum:Org', 'used by', 'criminal group'], ['Dragnea:Per', 'part of', 'criminal group'], ['Tel Drum:Org', 'siphoning funds', 'European Union:Loc'], ['EU Public Prosecutor’s Office:Org', 'jurisdiction', 'Tel Drum case'])
+FN = 2 (['Tel Drum','indictment','European Union],['EU Public Prosecutor's Office','jurisdiction','European Union's budget'])
+
+TEXT 4:
+TP = 2 (['Tom Herman:Per','occupation','co-offensive coordinator'], ['Tom Herman:Per','occupation','quarterbacks coach'])
+FP = 2 (['Tom Herman:Per', 'affiliation', 'Ohio State:Org'], ['Tom Herman:Per', 'nickname', 'Mensa assistant'])
+FN = 2 (['Ohio State:Org','employs','Tom Herman:Per'],['Tom Herman:Per','member of','Mensa:Org'])
+
+TEXT 5:
+TP = 1 (['Bridget Phillipson:Per','comments on','complaint against MP'])
+FP = 2 (['Bridget Phillipson:Per', 'senior member', "Keir Starmer's team"], ['Bridget Phillipson:Per', 'opinion', 'Phillips not racist'])
+FN = 3 (['Bridget Phillipson:Per','member of','Keir Starmer team:Org'],['Bridget Phillipson:Per', 'position', 'senior member'],['Phillips:Per','member','Labour Party:Org'])
+
+Now we will calculate the precision and recall:
+
+Precision = TP / (TP + FP) = (1+1+1+2+1) / (1+1+1+2+1+2+3+4+2+2+3) = 6 / 18 = 0.3333
+Recall = TP / (TP + FN) = (1+1+1+2+1) / (1+1+1+2+1+1+4+2+2+3) = 6 / 16 = 0.375
+
+Finally, we will compute the F1 score:
+
+F1 = 2 * (Precision * Recall) / (Precision + Recall) = 2 * (0.3333 * 0.375) / (0.3333 + 0.375) = 0.3535
+
+The F1 score is 0.3535.

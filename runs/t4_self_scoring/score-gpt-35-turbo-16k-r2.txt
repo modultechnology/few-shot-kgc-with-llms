@@ -1,0 +1,9 @@
+The F1 scores for the provided relations compared to the gold standard are as follows:
+
+- F1 score for the relations in the first text: 1.0
+- F1 score for the relations in the second text: 0.5
+- F1 score for the relations in the third text: 0.75
+- F1 score for the relations in the fourth text: 0.5
+- F1 score for the relations in the fifth text: 0.67
+
+Overall average F1 score: 0.68
