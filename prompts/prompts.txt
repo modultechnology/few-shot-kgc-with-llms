@@ -1,0 +1,161 @@
+-----------------------------------------------------------------------------------------------------------------------------
+RELATIONS
+
+List relations among the entities [Person, Location, Organisation, Event, Date, Work, Other] in the given text and provide a reasonable explanation. Make sure to mark each entity with its abbreviated name [Per, Loc, Org, Event, Date, Work, Other]. Relations should be expressed as triples that have the form [subject, predicate, object]. Use the following texts as examples.
+
+TEXT: Geoffrey Hinton, who has been called the ‘Godfather of AI,’ confirmed Monday that he left his role at Google last week to speak out about the “dangers” of the technology he helped to develop.
+Relations: [['Geoffrey Hinton:Per', 'Work For', 'Google'],['Geoffrey Hinton:Per','field of work','A.I.'],['Geoffrey Hinton:Per','also known as','Godfather of AI'],['Geoffrey Hinton:Per','comments on','dangers of the the technology he helped to develop']]
+
+TEXT: Green MP Caroline Lucas’s announcement that she will be leaving parliament at the next general election will have come as a surprise to many.
+Relations: [['Caroline Lucas:Per','member of','Green Party:Org'],['Caroline Lucas','position','MP'],['Caroline Lucas:Per','leaving parliament','next general election']]
+
+TEXT: Austria's biggest opposition party, the centre-left SPÖ confirmed Andreas Babler as its new chairman on Monday after initially announcing Hans Peter Doskozil had won the race to lead the party.
+Relations: [['SPÖ:Org','political opposition','Austria:Loc'],['Andreas Babler:Per','chairman','SPÖ:Org'],['SPÖ:Org','denied','Hans Peter Doskozil:Per']]
+
+TEXT: Both parties shared their wish to strengthen their cooperation in investigations within the EPPO’s jurisdiction, after Moldova was granted candidate status for European Union membership in June 2022.
+Relations: [['European Public Prosecutor's Office:Org','jurisdiction','European Union:Loc'],['Moldova:Loc','candidate status','European Union:Loc'],['Moldova:Loc','candidate status','June 2022:Date']]
+Explanation: Moldova was granted candidate status for European Union membership in June 2022 and expressed its desire to strengthen its cooperation with the European Public Prosecutor's Office.<s>
+
+TEXT: The Sustainable Development Report 2021, first reported by Renew Economy, scored Australia last out of 193 United Nations member countries for action taken to reduce global greenhouse gas emissions
+Relations: [['Renew Economy:Org','reported','The Sustainable Development Report 2021:Work'],['Australia:Loc','member of','United Nations:Org']]
+
+TEXT: “The RSPO have been left behind,” said Mark Mills, partner at Generation Investment Management, a London-based investment management firm focused on sustainability and a member of UN Principles of Responsible Investment palm oil working group, during a conference call Monday.
+Relations: [['Mark Mills:Per','comments on','RSPO:Org'],['Mark Mills:Per','partner','Generation Investment Management:Org'],['Mark Mills:Per','member of','UNPRI palm oil working group']]
+
+TEXT: Shares in listed companies tied to Adani’s empire Adani Group lost $9.4bn in market value on Wednesday after short seller investment firm Hindenburg Research published a detailed investigation into accusations of “brazen stock manipulation”, “accounting fraud” and “money laundering.”
+Relations: [['Adani:Per','owner','Adani Group:Org'],['Adani Group:Org','value','down $9.4 bn'],['Hindenburg Research:Org','objective','short seller investment']]
+
+TEXT: Today the Bundaberg Rum Visitor Experience receives the country’s first Sustainable Tourism Certification from Ecotourism Australia.
+Relations: [['Bundaberg Rum Visitor Experience:Org','awarded','Sustainable Tourism Certification:Award'],['Bundaberg Rum Visitor Experience:Org','industry','tourism'],['Ecotourism Australia:Org','awards','Sustainable Tourism Certification:Award'],['Ecotourism Australia:Org','jurisidiction','Australia:Loc']]
+
+TEXT: The energy regulator Ofgem’s chief executive, Jonathan Brearley, last month described the delays as unacceptable and criticised a “legacy of stalled, unviable and often highly speculative ‘zombie’ projects blocking ready-to-go solar, wind and other renewable schemes stuck behind them”.
+Relations: [['Jonathan Brearley:Per','director','Ofgem:Org'],['Ofgen:Org','regulatory agency','energy']]
+
+TEXT: Even before the dramatic leak of Justice Samuel Alito’s draft opinion last month, it was widely predicted that the US supreme court would grab the opportunity presented by the Dobbs v Jackson Women’s Health Organization case to rescind the decision made in 1973 in Roe v Wade.
+Relations: [['Justice Samuel Alito:Per','author','Alito draft opinion:Work'],['Justice Samuel Alito:Per','opposition','Roe v. Wade:Event'],['U.S. Supreme Court:Org','overrule','Roe v. Wade:Event'],['Dobbs v Jackson Women’s Health Organization:Event','rescind','Roe v Wade:Event']]
+
+TEXT: New Zealand's Frying Pan Lake is the largest hot spring in the world and part of a geothermal & volcanic wonderland landscape.
+Relations: [['Frying Pan Lake:Loc','located in','New Zealand:Loc'],['Frying Pan Lake:Loc','description','largest hot spring in the world'],['Frying Pan Lake:Loc','part of','geothermal & volcanic landscape']]
+
+TEXT: In particular, the conclusion that Russia controlled the separatist areas of Eastern Ukraine from 2014 up to the oral hearing in the case in 2022 and (as the Court will inevitably find) to this day is legally and factually unimpeachable.
+Relations: [['Russia:Loc','jurisdiction','Eastern Ukraine:Loc'],['Russia:Loc','controls','Eastern Ukraine:Loc'],['Eastern Ukraine','occupied since','2014:Date']]
+
+Using the previous texts as examples, compute the relations for the following texts:
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+EXPLANATIONS (CoT)
+
+List relations among the entities [Person, Location, Organisation, Event, Date, Work, Other] in the given text and provide a reasonable explanation. Make sure to mark each entity with its abbreviated name [Per, Loc, Org, Event, Date, Work, Other]. Relations should be expressed as triples that have the form [subject, predicate, object]. Provide a reasonable explanation for the relations extracted, as presented in the following examples. Use the following texts as examples.
+
+TEXT: Geoffrey Hinton, who has been called the ‘Godfather of AI,’ confirmed Monday that he left his role at Google last week to speak out about the “dangers” of the technology he helped to develop.
+Relations: [['Geoffrey Hinton:Per', 'Work For', 'Google'],['Geoffrey Hinton:Per','field of work','A.I.'],['Geoffrey Hinton:Per','also known as','Godfather of AI'],['Geoffrey Hinton:Per','comments on','dangers of the the technology he helped to develop']]
+Explanation: Geoffrey Hinton is a computer scientist known for his work with neural networks and considered to be a 'Godfather of AI'.<s>
+
+TEXT: Green MP Caroline Lucas’s announcement that she will be leaving parliament at the next general election will have come as a surprise to many.
+Relations: [['Caroline Lucas:Per','member of','Green Party:Org'],['Caroline Lucas','position','MP'],['Caroline Lucas:Per','leaving parliament','next general election']]
+Explanation: Caroline Lucas holds the position of MP for the Green Party UK until the next general election.<s>
+
+TEXT: Austria's biggest opposition party, the centre-left SPÖ confirmed Andreas Babler as its new chairman on Monday after initially announcing Hans Peter Doskozil had won the race to lead the party.
+Relations: [['SPÖ:Org','political opposition','Austria:Loc'],['Andreas Babler:Per','chairman','SPÖ:Org'],['SPÖ:Org','denied','Hans Peter Doskozil:Per']]
+Explanation: Andreas Babler was confirmed chairman of SPÖ, Austria's biggest opposition party, after a misunderstanding.<s>
+
+TEXT: Both parties shared their wish to strengthen their cooperation in investigations within the EPPO’s jurisdiction, after Moldova was granted candidate status for European Union membership in June 2022.
+Relations: [['European Public Prosecutor's Office:Org','jurisdiction','European Union:Loc'],['Moldova:Loc','candidate status','European Union:Loc'],['Moldova:Loc','candidate status','June 2022:Date']]
+Explanation: Moldova was granted candidate status for European Union membership in June 2022 and expressed its desire to strengthen its cooperation with the European Public Prosecutor's Office.<s>
+
+TEXT: The Sustainable Development Report 2021, first reported by Renew Economy, scored Australia last out of 193 United Nations member countries for action taken to reduce global greenhouse gas emissions
+Relations: [['Renew Economy:Org','reported','The Sustainable Development Report 2021:Work'],['Australia:Loc','member of','United Nations:Org']]
+Explanation: Australia, a member of United Nations, was reported on the last place in The Sustainable Development Report 2021.<s>
+
+TEXT: “The RSPO have been left behind,” said Mark Mills, partner at Generation Investment Management, a London-based investment management firm focused on sustainability and a member of UN Principles of Responsible Investment palm oil working group, during a conference call Monday.
+Relations: [['Mark Mills:Per','comments on','RSPO:Org'],['Mark Mills:Per','partner','Generation Investment Management:Org'],['Mark Mills:Per','member of','UNPRI palm oil working group']]
+Explanation: Mark Mills is a partner of Generation Investment Management and a member of UN Principles of Responsible Investment palm oil working group.<s>
+
+TEXT: Shares in listed companies tied to Adani’s empire Adani Group lost $9.4bn in market value on Wednesday after short seller investment firm Hindenburg Research published a detailed investigation into accusations of “brazen stock manipulation”, “accounting fraud” and “money laundering.”
+Relations: [['Adani:Per','owner','Adani Group:Org'],['Adani Group:Org','value','down $9.4 bn'],['Hindenburg Research:Org','objective','short seller investment']]
+Explanation: Hindenburg Research, a short seller investment company, published a report accusing Adani Group of massive fraud.<s>
+
+TEXT: Today the Bundaberg Rum Visitor Experience receives the country’s first Sustainable Tourism Certification from Ecotourism Australia.
+Relations: [['Bundaberg Rum Visitor Experience:Org','awarded','Sustainable Tourism Certification:Award'],['Bundaberg Rum Visitor Experience:Org','industry','tourism'],['Ecotourism Australia:Org','awards','Sustainable Tourism Certification:Award'],['Ecotourism Australia:Org','jurisidiction','Australia:Loc']]
+Explanation: Bundaberg Rum Visitor Experience received the the first Sustainable Tourism Certification in Australia from Ecotourism Australia.<s>
+
+TEXT: The energy regulator Ofgem’s chief executive, Jonathan Brearley, last month described the delays as unacceptable and criticised a “legacy of stalled, unviable and often highly speculative ‘zombie’ projects blocking ready-to-go solar, wind and other renewable schemes stuck behind them”.
+Relations: [['Jonathan Brearley:Per','director','Ofgem:Org'],['Ofgen:Org','regulatory agency','energy']]
+Explanation: The director of UK's energy regulator Ofgem explains various unacceptable market behaviours.<s>
+
+TEXT: Even before the dramatic leak of Justice Samuel Alito’s draft opinion last month, it was widely predicted that the US supreme court would grab the opportunity presented by the Dobbs v Jackson Women’s Health Organization case to rescind the decision made in 1973 in Roe v Wade.
+Relations: [['Justice Samuel Alito:Per','author','Alito draft opinion:Work'],['Justice Samuel Alito:Per','opposition','Roe v. Wade:Event'],['U.S. Supreme Court:Org','overrule','Roe v. Wade:Event'],['Dobbs v Jackson Women’s Health Organization:Event','rescind','Roe v Wade:Event']]
+Explanation: Justice Samuel Alito's opinion draft predicted that U.S Supreme Court would overrule Roe v Wade decision from 1973.<s> 
+
+TEXT: New Zealand's Frying Pan Lake is the largest hot spring in the world and part of a geothermal & volcanic wonderland landscape.
+Relations: [['Frying Pan Lake:Loc','located in','New Zealand:Loc'],['Frying Pan Lake:Loc','description','largest hot spring in the world'],['Frying Pan Lake:Loc','part of','geothermal & volcanic landscape']]
+Explanation: The Frying Pan Lake situated in New Zealand is the largest hot spring in the world.<s>  
+
+TEXT: In particular, the conclusion that Russia controlled the separatist areas of Eastern Ukraine from 2014 up to the oral hearing in the case in 2022 and (as the Court will inevitably find) to this day is legally and factually unimpeachable.
+Relations: [['Russia:Loc','jurisdiction','Eastern Ukraine:Loc'],['Russia:Loc','controls','Eastern Ukraine:Loc'],['Eastern Ukraine','occupied since','2014:Date']]
+Explanation: Russia's jurisdiction extends over Eastern Ukraine since 2014 and it is unimpeachable.<s>
+
+Using the previous texts as examples, compute the relations for the following texts:
+
+-------------------------------------------------------------------------------------------------------------------
+KGC
+
+List relations of types [employer, field of work, jurisdiction, member of, occupation, position, director, part of, objective, opposes, country, located in, operator, location, main subject, organizer, point of time] among the entities [Person, Location, Organisation, Event, Date, Work, Other] in the given text and provide a reasonable explanation. Make sure to mark each entity with its abbreviated name [Per, Loc, Org, Event, Date, Work, Other]. Relations should be expressed as triples that have the form [subject, predicate, object]. Provide a reasonable explanation for the relations extracted, as presented in the following examples. 
+
+TEXT: Geoffrey Hinton, who has been called the ‘Godfather of AI,’ confirmed Monday that he left his role at Google last week to speak out about the “dangers” of the technology he helped to develop.
+Relations: [['Geoffrey Hinton:Per', 'Work For', 'Google'],['Geoffrey Hinton:Per','field of work','A.I.']]
+Explanation: Geoffrey Hinton is a computer scientist who worked for Google and is known for his work with neural networks and considered to be a 'Godfather of AI'.<s>
+
+TEXT: Green MP Caroline Lucas’s announcement that she will be leaving parliament at the next general election will have come as a surprise to many.
+Relations: [['Caroline Lucas:Per','member of','Green Party:Org'],['Caroline Lucas','position','MP']]
+Explanation: Caroline Lucas holds the position of MP for the Green Party, therefore being a member of the Green Party, UK until the next general election.<s>
+
+TEXT: Austria's biggest opposition party, the centre-left SPÖ confirmed Andreas Babler as its new chairman on Monday after initially announcing Hans Peter Doskozil had won the race to lead the party.
+Relations: [['SPÖ:Org','opposition','Austria:Loc'],['Andreas Babler:Per','chairman','SPÖ:Org'],['SPÖ:Org','opposes','Hans Peter Doskozil:Per']]
+Explanation: Andreas Babler was confirmed chairman of SPÖ, Austria's biggest opposition party, after a misunderstanding.<s>
+
+TEXT: Both parties shared their wish to strengthen their cooperation in investigations within the EPPO’s jurisdiction, after Moldova was granted candidate status for European Union membership in June 2022.
+Relations: [['European Public Prosecutor's Office:Org','jurisdiction','European Union:Loc']]
+Explanation: The European Public Prosecutor's Office has jurisdiction over the EU member states and can collaborate with the candidate states.<s>
+
+TEXT: The Sustainable Development Report 2021, first reported by Renew Economy, scored Australia last out of 193 United Nations member countries for action taken to reduce global greenhouse gas emissions
+Relations: [['Australia:Loc','member of','United Nations:Org']]
+Explanation: Australia is a member of United Nations.<s>
+
+TEXT: “The RSPO have been left behind,” said Mark Mills, partner at Generation Investment Management, a London-based investment management firm focused on sustainability and a member of UN Principles of Responsible Investment palm oil working group, during a conference call Monday.
+Relations: [['Mark Mills:Per','partner','Generation Investment Management:Org'],['Mark Mills:Per','member of','UNPRI palm oil working group']]
+Explanation: Mark Mills is a partner of Generation Investment Management and a member of UN Principles of Responsible Investment palm oil working group.<s>
+
+TEXT: Shares in listed companies tied to Adani’s empire Adani Group lost $9.4bn in market value on Wednesday after short seller investment firm Hindenburg Research published a detailed investigation into accusations of “brazen stock manipulation”, “accounting fraud” and “money laundering.”
+Relations: [['Adani:Per','owner','Adani Group:Org'],['Hindenburg Research:Org','objective','short seller investment']]
+Explanation: Hindenburg Research, a short seller investment company, published a report accusing Adani Group of massive fraud.<s>
+
+TEXT: Today the Bundaberg Rum Visitor Experience receives the country’s first Sustainable Tourism Certification from Ecotourism Australia.
+Relations: [['Bundaberg Rum Visitor Experience:Org','operator','tourism'],['Ecotourism Australia:Org','jurisidiction','Australia:Loc']]
+Explanation: Bundaberg Rum Visitor Experience received the the first Sustainable Tourism Certification in Australia from Ecotourism Australia.<s>
+
+TEXT: The energy regulator Ofgem’s chief executive, Jonathan Brearley, last month described the delays as unacceptable and criticised a “legacy of stalled, unviable and often highly speculative ‘zombie’ projects blocking ready-to-go solar, wind and other renewable schemes stuck behind them”.
+Relations: [['Jonathan Brearley:Per','director','Ofgem:Org']]
+Explanation: The director of UK's energy regulator Ofgem explains various unacceptable market behaviours.<s>
+
+TEXT: Even before the dramatic leak of Justice Samuel Alito’s draft opinion last month, it was widely predicted that the US supreme court would grab the opportunity presented by the Dobbs v Jackson Women’s Health Organization case to rescind the decision made in 1973 in Roe v Wade.
+Relations: [['Justice Samuel Alito:Per','opposition','Roe v. Wade:Event']]
+Explanation: Justice Samuel Alito's opinion draft predicted that U.S Supreme Court would overrule Roe v Wade decision from 1973.<s> 
+
+TEXT: New Zealand's Frying Pan Lake is the largest hot spring in the world and part of a geothermal & volcanic wonderland landscape.
+Relations: [['Frying Pan Lake:Loc','located in','New Zealand:Loc'],['Frying Pan Lake:Loc','part of','geothermal & volcanic landscape']]
+Explanation: The Frying Pan Lake situated in New Zealand is the largest hot spring in the world.<s>  
+
+TEXT: In particular, the conclusion that Russia controlled the separatist areas of Eastern Ukraine from 2014 up to the oral hearing in the case in 2022 and (as the Court will inevitably find) to this day is legally and factually unimpeachable.
+Relations: [['Russia:Loc','jurisdiction','Eastern Ukraine:Loc'],['Russia:Loc','controls','Eastern Ukraine:Loc']]
+Explanation: Russia's jurisdiction extends over Eastern Ukraine since 2014 and it is unimpeachable.<s>
+
+Using the previous texts as examples, compute the relations for the following texts:
+
+
+-------------------------------------------------------------------------------------------------------------------
+SELF-SCORING
+
+
+Please compare the previous answers with the following list and compute the F1 score, considering that the newly provided list represents the gold standard.
